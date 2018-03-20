@@ -1,0 +1,11 @@
+spec:
+  replicas: 1
+  template:
+    spec:
+      containers:
+        - resources:
+            limits:
+              memory: '32Mi'
+         - env:
+            name: 'JAVA_OPTIONS'
+            value: '-Drssaggregator.urls=https://tools.jboss.org/blog/news.atom,http://dcp2.jboss.org/v2/rest/feed/?sys_type=blogpost&sortBy=new-create&feed_title=JBoss%20Developer%20Recent%20Posts -Xmx32m,https://developers.redhat.com/blog/feed/'
