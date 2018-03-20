@@ -1,8 +1,6 @@
-= REST API Level 0 - Eclipse Vert.x Booster
+= RSS Aggregator
 
-IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
-
-IMPORTANT: As part of the process of creating this booster, launch.openshift.io set up a project with a CI/CD deployment of this booster. You can see the status of this deployment in your Single-node OpenShift Cluster or OpenShift Online Web Console. 
+A simple RSS aggregator based on Eclipse Vert.x
 
 == Runing the Booster Locally
 
@@ -23,10 +21,10 @@ To interact with your booster while it's running locally, use the form at `http:
 
 [source,bash,options="nowrap",subs="attributes+"]
 ----
-$ curl http://localhost:8080/api/greeting
+$ curl http://localhost:8080/
 {"content":"Hello, World!"}
 
-$ curl http://localhost:8080/api/greeting?name=Sarah
+$ curl http://localhost:8080/feed
 {"content":"Hello, Sarah!"}
 ----
 
