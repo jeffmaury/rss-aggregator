@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    >
+
+<channel>
+    <title>RHD Blog</title>
+    <atom:link href="https://developers.redhat.com/blog/feed/" rel="self" type="application/rss+xml" />
+    <link>https://developers.redhat.com/blog</link>
+    <description>Insights and news on Red Hat developer tools, platforms and more</description>
+    <lastBuildDate>Wed, 14 Mar 2018 16:55:04 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>https://wordpress.org/?v=4.9.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">121547928</site>   <item>
+        <title>Next DevNation Live: Camel Riders in the Cloud, March 15th, 12pm EDT</title>
+        <link>https://developers.redhat.com/blog/2018/03/14/devnation-live-camel-riders-cloud/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/14/devnation-live-camel-riders-cloud/#respond</comments>
+        <pubDate>Wed, 14 Mar 2018 16:55:04 +0000</pubDate>
+        <dc:creator><![CDATA[Burr]]></dc:creator>
+                <category><![CDATA[DevNation]]></category>
+        <category><![CDATA[Events]]></category>
+        <category><![CDATA[Red Hat OpenShift Container Platform]]></category>
+        <category><![CDATA[apache camel]]></category>
+        <category><![CDATA[DevNation Live]]></category>
+        <category><![CDATA[Integration]]></category>
+        <category><![CDATA[kubernetes]]></category>
+        <category><![CDATA[Red Hat JBoss Fuse]]></category>
+        <category><![CDATA[Red Hat OpenShift]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=466967</guid>
+        <description><![CDATA[<p>The next online DevNation Live Tech Talk will be Thursday, March 15th at 12pm EDT. The topic is Camel Riders in the Cloud presented by Claus Ibsen Apache Camel has fundamentally changed the way enterprise Java™ developers think about system-to-system integration. It makes it easy to apply enterprise integration patterns (EIP) using simple declarations. The [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/14/devnation-live-camel-riders-cloud/">Next DevNation Live: Camel Riders in the Cloud, March 15th, 12pm EDT</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<p>The next online <a href="https://developers.redhat.com/devnationlive/">DevNation Live Tech Talk</a> will be Thursday, March 15th at 12pm EDT. The topic is Camel Riders in the Cloud presented by Claus Ibsen</p>
+<p>Apache Camel has fundamentally changed the way enterprise Java<img src="https://s.w.org/images/core/emoji/2.3/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> developers think about system-to-system integration. It makes it easy to apply enterprise integration patterns (EIP) using simple declarations. The result is a lightweight application that is wrapped and delivered as a single JAR.</p>
+<p>In this session, we’ll show you how to apply the best practices from the enterprise integration world to build microservices that are deployed as Linux® containers, running on top of Kubernetes and Red Hat OpenShift. These integration applications will be both cloud-native and cloud-portable.</p>
+<p><strong><a href="https://onlinexperiences.com/Launch/Event/ShowKey=49311&amp;AffiliateData=blog">Register now</a> and join the live presentation at 12pm EDT, Thursday, March 15th. </strong></p>
+<p>Note: For those outside of the US, daylight savings time started this week, so the US East coast is now UTC &#8211; 4.<br />
+<span id="more-466967"></span></p>
+<h2>Session Agenda</h2>
+<p>In this session you’ll learn:</p>
+<ul>
+<li>Best practices for enterprise integration patterns using Apache Camel</li>
+<li>How to build and deploy lightweight integration applications as microservices running in Linux containers</li>
+<li>How to run those containers in the cloud or on-premises using Red Hat OpenShift and Kubernetes</li>
+</ul>
+<h2>About the speaker</h2>
+<p><a href="https://twitter.com/davsclaus">Claus Ibsen</a>, principal engineer, Red Hat<br />
+Claus Ibsen is co-author of the Camel in Action books. Claus is a long time Apache Camel committer, and wrote a lot of the Camel code. He is a professional open source developer, working daily on the Apache Camel and ActiveMQ projects, as well as working with other open source integration technologies such as hawtio, vert.x and fabric8. Claus spends many hours in the Camel community to help others, write blogs, tweet, and help make Apache Camel a better product.</p>
+<h2>DevNation Live Tech Talks</h2>
+<p>See which talks are happening next at <a href="https://developers.redhat.com/devnationlive/">developers.redhat.com/devnationlive</a>. You can also find the recorded videos for previous sessions such as:</p>
+<ul>
+<li>Secure Spring Boot Microservices with Keycloak</li>
+<li>Kubeboot &#8211; Spring Boot Deployment on Kubernetes has Never Been So Eeasy</li>
+<li>Istio: Canaries and Kubernetes</li>
+<li>Microprofile: Microservices with Java EE</li>
+</ul>
+<p><strong>Don’t forget to <a href="https://onlinexperiences.com/Launch/Event/ShowKey=49311&amp;AffiliateData=blog">register now</a> and join the live presentation at 12pm EDT, Thursday, March 15th.</strong></p>
+<p>Note: For those outside of the US, daylight savings time started this week, so the US East coast is now UTC &#8211; 4.</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;linkname=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;linkname=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;linkname=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;linkname=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;linkname=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;linkname=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;linkname=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;linkname=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fdevnation-live-camel-riders-cloud%2F&amp;title=Next%20DevNation%20Live%3A%20Camel%20Riders%20in%20the%20Cloud%2C%20March%2015th%2C%2012pm%20EDT" data-a2a-url="https://developers.redhat.com/blog/2018/03/14/devnation-live-camel-riders-cloud/" data-a2a-title="Next DevNation Live: Camel Riders in the Cloud, March 15th, 12pm EDT"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/14/devnation-live-camel-riders-cloud/">Next DevNation Live: Camel Riders in the Cloud, March 15th, 12pm EDT</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/14/devnation-live-camel-riders-cloud/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">466967</post-id>    </item>
+        <item>
+        <title>What is a KJAR?</title>
+        <link>https://developers.redhat.com/blog/2018/03/14/what-is-a-kjar/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/14/what-is-a-kjar/#respond</comments>
+        <pubDate>Wed, 14 Mar 2018 11:55:42 +0000</pubDate>
+        <dc:creator><![CDATA[David Laffranchi]]></dc:creator>
+                <category><![CDATA[Java]]></category>
+        <category><![CDATA[JBoss BPM Suite]]></category>
+        <category><![CDATA[JBoss BRMS]]></category>
+        <category><![CDATA[BPMS]]></category>
+        <category><![CDATA[brms]]></category>
+        <category><![CDATA[Red Hat JBoss Decision Manager]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=463927</guid>
+        <description><![CDATA[<p>Red Hat JBoss® BPM Suite and Red Hat Decision Manager (formerly Red Hat JBoss BRMS) both use an artifact packaging known as a &#8220;KJAR&#8221;, or knowledge artifact, since version 6. What is this file type? What separates it from a standard JAR file? The basic summary In very few words, a KJAR is a standard [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/14/what-is-a-kjar/">What is a KJAR?</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<p><a href="https://developers.redhat.com/products/bpmsuite/overview/">Red Hat JBoss® BPM Suite</a> and <a href="https://developers.redhat.com/products/red-hat-decision-manager/overview/">Red Hat Decision Manager</a> (formerly Red Hat JBoss BRMS) both use an artifact packaging known as a &#8220;KJAR&#8221;, or knowledge artifact, since version 6. What is this file type? What separates it from a standard JAR file?</p>
+<h1>The basic summary</h1>
+<p>In very few words, a <a title="KJAR" href="https://access.redhat.com/documentation/en-us/red_hat_jboss_bpm_suite/6.4/html/administration_and_configuration_guide/chap_business_central_configuration#sect_deployment_descriptors">KJAR</a> is a standard JAR file that has some extra files included. A KJAR keeps the same <code>.jar</code> extension as a JAR file, because its basic file structure is identical to that of a JAR.<span id="more-463927"></span></p>
+<h1>Why the difference?</h1>
+<p>A JAR (&#8220;Java archive&#8221;) file is meant to run Java code of any kind, with nearly limitless resources and assets potentially being included as part of the package. To quote the JAR standard, &#8220;A JAR file is essentially a zip file that contains an optional META-INF directory.&#8221; <a title="Jump to footnote 1" href="#fn1"><sup>1</sup></a> By contrast, a KJAR (&#8220;Knowledge artifact&#8221;) is specifically targeted for rules and processes which tend to be notated in XML or plain text. There may or may not be any further resources or assets contained within a knowledge artifact. The contents of a KJAR are still intended to compile into Java bytecode, but the specific focus on rules and processes allows them to configure and optimize their contents while still conforming to the standard JAR file structure.</p>
+<h1>What differences are there?</h1>
+<p>A KJAR must, at least, contain the file <code>META-INF/kmodule.xml</code>. This file is used to describe the KJAR structure and define some KIE-specific artifacts. The v6 specification for this file can be found <a title="GitHub link" href="https://github.com/kiegroup/droolsjbpm-knowledge/blob/6.5.x/kie-api/src/main/resources/org/kie/api/kmodule.xsd">here</a>, and an example for v6 can be found <a title="GitHub link" href="https://github.com/kiegroup/drools/blob/6.5.x/drools-compiler/src/test/resources/META-INF/kmodule.xml">here</a>.</p>
+<p>The following items are also different between JARs and KJARs:</p>
+<ul>
+<li><strong>Maven-based</strong>
+<ul>
+<li><strong>JAR:</strong> Does not need not be built according to any specific folder structure, as long as a <code>META-INF</code> directory is present at the top level</li>
+<li><strong>KJAR:</strong> Conforms to the <a title="Maven Standard Directory Layout" href="https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html">Maven Standard Directory Layout</a></li>
+</ul>
+</li>
+<li><strong>Extra files</strong>
+<ul>
+<li><strong>JAR:</strong> No specific files are required to be present</li>
+<li><strong>KJAR:</strong> Must contain a <code>META-INF/kmodule.xml</code> file, which in turn must contain at least a correctly formatted <code>&lt;kmodule&gt;</code> XML tag</li>
+</ul>
+</li>
+<li><strong>Pre-compiled asset cache</strong>
+<ul>
+<li><strong>JAR:</strong> Any code which is to be pre-compiled into bytecode is the responsibility of the build service which generates the JAR.</li>
+<li><strong>KJAR:</strong> Uses the <a title="KIE Plugin" href="https://access.redhat.com/documentation/en-us/red_hat_jboss_brms/6.0/html/development_guide/chap-maven#KIE_Plugin">KIE Maven plugin</a> during build time, which automatically pre-compiles some rule and process assets into a cache (<code>META-INF/&lt;kie-base-name&gt;/kbase.cache</code>). (This cache is not complete, but can improve performance when loading rules/processes.) If the cache is not created, all assets will be built at runtime.</li>
+</ul>
+</li>
+<li><strong>Deployment Descriptor (since v6.1)</strong>
+<ul>
+<li><strong>JAR:</strong> No specific configurations or deployment types are specified, though various other frameworks or standards (such as Java EE) may create their own standards.</li>
+<li><strong>KJAR:</strong> If the file <code>META-INF/kie-deployment-descriptor.xml</code> exists, it is used automatically to determine various properties for executing rules and/or processes such as runtime strategy, event listeners, work item handlers, and more. <a title="Jump to footnote 2" href="#fn2"><sup>2</sup></a></li>
+</ul>
+</li>
+</ul>
+<h1>What remains the same?</h1>
+<p>Nearly everything about a KJAR is really a targeted addition to a JAR file, so you can count on KJARs being almost entirely the same as JAR files. You can still use a <code>MANIFEST.MF</code> file to define package info, you can still use a <code>beans.xml</code> file to have <a title="GitHub link" href="https://github.com/cdi-spec/cdi-spec.org/blob/master/_faq/intro/4-what-is-beans-xml-and-why-do-i-need-it.asciidoc">CDI</a> pick up classes, and you can still use popular files like <code>logback.xml</code> or <code>log4j.xml</code> for use with popular Java logging frameworks.</p>
+<h1>How is a KJAR made?</h1>
+<p>The primary difference between building a KJAR and building a standard JAR is that the KJAR has a <code>&lt;packaging&gt;kjar&lt;/packaging&gt;</code> entry in its <code>pom.xml</code> and also contains the necessary <code>&lt;plugin&gt;</code> for <code>kie-maven-plugin</code> in that same file. <a title="Jump to footnote 3" href="#fn3"><sup>3</sup></a></p>
+<h1>What happens if I generate a JAR instead of a KJAR?</h1>
+<p>Officially, use of the KIE Maven plugin ensures that artifact resources are validated and pre-compiled, so use of that plugin is recommended at all times. However, if the rules/processes inside a KJAR are valid there are unlikely to be any execution problems whether they are running from a JAR or a KJAR. No <code>kbase.cache</code> would be created without the KIE Maven plugin <a title="Jump to footnote 4" href="#fn4"><sup>4</sup></a>, so it&#8217;s possible that users would encounter worse performance when attempting to run rules/processes from a JAR instead of a KJAR.</p>
+<h1>Footnotes:</h1>
+<p><a id="fn1" title="JAR File Specification" href="https://docs.oracle.com/javase/7/docs/technotes/guides/jar/jar.html">1) JAR File Specification &#8211; https://docs.oracle.com/javase/7/docs/technotes/guides/jar/jar.html</a></p>
+<p><a id="fn2" title="Deployment Descriptors" href="https://access.redhat.com/documentation/en-us/red_hat_jboss_bpm_suite/6.4/html/administration_and_configuration_guide/chap_business_central_configuration#idm139940729511264">2) Deployment Descriptors &#8211; https://access.redhat.com/documentation/en-us/red_hat_jboss_bpm_suite/6.4/html/administration_and_configuration_guide/chap_business_central_configuration#idm139940729511264</a></p>
+<p><a id="fn3" title="How to build a kjar from Maven command for BRMS/BPM Suite 6?" href="https://access.redhat.com/solutions/892893">3) How to build a kjar from Maven command for BRMS/BPM Suite 6? &#8211; https://access.redhat.com/solutions/892893</a></p>
+<p><a id="fn4" title="Is it possible to load kbase.cache file directly to save time for loading KieBase in Drools 6 ?" href="https://access.redhat.com/solutions/1297523">4) Is it possible to load kbase.cache file directly to save time for loading KieBase in Drools 6 ? &#8211; https://access.redhat.com/solutions/1297523</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;linkname=What%20is%20a%20KJAR%3F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;linkname=What%20is%20a%20KJAR%3F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;linkname=What%20is%20a%20KJAR%3F" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;linkname=What%20is%20a%20KJAR%3F" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;linkname=What%20is%20a%20KJAR%3F" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;linkname=What%20is%20a%20KJAR%3F" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;linkname=What%20is%20a%20KJAR%3F" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;linkname=What%20is%20a%20KJAR%3F" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F14%2Fwhat-is-a-kjar%2F&amp;title=What%20is%20a%20KJAR%3F" data-a2a-url="https://developers.redhat.com/blog/2018/03/14/what-is-a-kjar/" data-a2a-title="What is a KJAR?"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/14/what-is-a-kjar/">What is a KJAR?</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/14/what-is-a-kjar/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">463927</post-id>    </item>
+        <item>
+        <title>Introduction to Eclipse Vert.x &#8211; My First Vert.x Application</title>
+        <link>https://developers.redhat.com/blog/2018/03/13/eclipse-vertx-first-application/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/13/eclipse-vertx-first-application/#respond</comments>
+        <pubDate>Tue, 13 Mar 2018 17:25:10 +0000</pubDate>
+        <dc:creator><![CDATA[Clement Escoffier]]></dc:creator>
+                <category><![CDATA[Java]]></category>
+        <category><![CDATA[Microservices]]></category>
+        <category><![CDATA[Eclipse Vert.x]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=463637</guid>
+        <description><![CDATA[<p>Let’s say, you heard someone saying that Eclipse Vert.x is awesome. Ok great, but you may want to try it yourself. The next logical question is “where do I start?”. This article is a good starting point. It shows: how to build a very simple Vert.x application (nothing fancy), how it is tested, and how [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/13/eclipse-vertx-first-application/">Introduction to Eclipse Vert.x &#8211; My First Vert.x Application</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<p>Let’s say, you heard someone saying that <a href="http://vertx.io/">Eclipse Vert.x</a> is awesome. Ok great, but you may want to try it yourself. The next logical question is “where do I start?”. This article is a good starting point. It shows: how to build a very simple Vert.x application (nothing fancy), how it is tested, and how it is packaged and executed. Basically everything you need to know before building your own groundbreaking application.</p>
+<p>The code developed in this article is available on GitHub. This is part of the &#8220;Introduction to Vert.x Series&#8221;. The code for this post is located in the <a href="https://github.com/redhat-developer/introduction-to-eclipse-vertx">https://github.com/redhat-developer/introduction-to-eclipse-vertx</a> repository in the <code>post-1</code>directory.</p>
+<p><span id="more-463637"></span></p>
+<h2>Let’s start!</h2>
+<p>First, let’s create a project. In this post we use <a href="https://maven.apache.org/">Apache Maven</a>, but you can use <a href="https://gradle.org/">Gradle</a> or the build process tool you prefer. You could use the Maven jar archetype to create the structure, but basically you just need a directory with:</p>
+<ul>
+<li>a <code>src/main/java</code> directory</li>
+<li>a <code>src/test/java</code> directory</li>
+<li>a <code>pom.xml</code> file</li>
+</ul>
+<p>So, you would get something like:</p>
+<pre><code>.
+├── pom.xml
+├── src
+│   ├── main
+│   │   └── java
+│   └── test
+│       └── java
+</code></pre>
+<p>Let’s create the <code>pom.xml</code> file with the following content:</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;project xmlns=&quot;http://maven.apache.org/POM/4.0.0&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xsi:schemaLocation=&quot;http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd&quot;&gt;
+  &lt;modelVersion&gt;4.0.0&lt;/modelVersion&gt;
+
+  &lt;groupId&gt;io.vertx.intro&lt;/groupId&gt;
+  &lt;artifactId&gt;my-first-app&lt;/artifactId&gt;
+  &lt;version&gt;1.0-SNAPSHOT&lt;/version&gt;
+
+  &lt;properties&gt;
+    &lt;vertx.version&gt;3.5.0&lt;/vertx.version&gt;
+    &lt;vmp.version&gt;1.0.13&lt;/vmp.version&gt;
+  &lt;/properties&gt;
+
+  &lt;dependencies&gt;
+    &lt;dependency&gt;
+      &lt;groupId&gt;io.vertx&lt;/groupId&gt;
+      &lt;artifactId&gt;vertx-core&lt;/artifactId&gt;
+      &lt;version&gt;${vertx.version}&lt;/version&gt;
+    &lt;/dependency&gt;
+  &lt;/dependencies&gt;
+
+  &lt;build&gt;
+    &lt;plugins&gt;
+      &lt;plugin&gt;
+        &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;
+        &lt;version&gt;3.7.0&lt;/version&gt;
+        &lt;configuration&gt;
+          &lt;source&gt;1.8&lt;/source&gt;
+          &lt;target&gt;1.8&lt;/target&gt;
+        &lt;/configuration&gt;
+      &lt;/plugin&gt;
+      &lt;plugin&gt;
+        &lt;groupId&gt;io.fabric8&lt;/groupId&gt;
+        &lt;artifactId&gt;vertx-maven-plugin&lt;/artifactId&gt;
+        &lt;version&gt;${vmp.version}&lt;/version&gt;
+        &lt;executions&gt;
+          &lt;execution&gt;
+            &lt;id&gt;vmp&lt;/id&gt;
+            &lt;goals&gt;
+              &lt;goal&gt;initialize&lt;/goal&gt;
+              &lt;goal&gt;package&lt;/goal&gt;
+            &lt;/goals&gt;
+          &lt;/execution&gt;
+        &lt;/executions&gt;
+        &lt;configuration&gt;
+          &lt;redeploy&gt;true&lt;/redeploy&gt;
+        &lt;/configuration&gt;
+      &lt;/plugin&gt;
+    &lt;/plugins&gt;
+  &lt;/build&gt;
+
+&lt;/project&gt;
+</pre>
+<p>This <code>pom.xml</code> file is pretty straightforward:</p>
+<ul>
+<li>It declares a dependency on the `vertx-core`, the Vert.x version is declared as a property.</li>
+<li>It configures the `maven-compiler-plugin` to use Java 8.</li>
+<li>It declares the `vertx-maven-plugin`; we will come back to this in a bit.</li>
+</ul>
+<p>Vert.x requires at least Java 8, so don&#8217;t try to run a Vert.x application on a Java 6 or 7 JVM; it won&#8217;t work.</p>
+<p>The <code>vertx-maven-plugin</code> is an optional plugin that packages your app and provides additional functionality (documentation is <a href="https://vmp.fabric8.io">here</a>). Otherwise you can use the <code>maven-shade-plugin</code> or any other packaging plugin. The <code>vertx-maven-plugin</code> is convenient as it packages the application without any configuration. It also provides a <em>redeploy</em> feature, restarting the application when you update the code or the resources.</p>
+<h2>Let’s code!</h2>
+<p>Ok, now we have made the <code>pom.xml</code> file. Let’s do some real coding. Create the <code>src/main/java/io/vertx/intro/first/MyFirstVerticle.java</code> file with the following content:</p>
+<pre class="brush: java; title: ; notranslate">
+package io.vertx.intro.first;
+
+import io.vertx.core.AbstractVerticle;
+import io.vertx.core.Future;
+
+public class MyFirstVerticle extends AbstractVerticle {
+
+    @Override
+    public void start(Future&lt;Void&gt; fut) {
+        vertx
+            .createHttpServer()
+            .requestHandler(r -&gt;
+                r.response()
+                 .end(&quot;
+&lt;h1&gt;Hello from my first Vert.x application&lt;/h1&gt;
+
+&quot;))
+            .listen(8080, result -&gt; {
+                if (result.succeeded()) {
+                    fut.complete();
+                } else {
+                    fut.fail(result.cause());
+                }
+            });
+    }
+}
+</pre>
+<p>This is actually our <em>not fancy</em> application. The class extends <code>AbstractVerticle</code>. In the Vert.x world, a <em>verticle</em> is a component. By extending <code>AbstractVerticle</code>, our class gets access to the <code>vertx</code> field, and the <code>vertx</code> instance on which the verticle is deployed.</p>
+<p>The <code>start</code> method is called when the verticle is deployed. We could also implement a <code>stop</code> method (called when the verticle is undeployed), but in this case Vert.x takes care of the garbage for us. The <code>start</code> method receives a <code>Future</code> object that lets us notify Vert.x when our start sequence has been completed or reports an error if anything bad happens. One of the particularities of Vert.x is its asynchronous and non-blocking aspect. When our verticle is going to be deployed it won’t wait until the <code>start</code> method has been completed. So, the <code>Future</code> parameter is important for notification of the completion. Notice that you can also implement a version of the <code>start</code> method without the <code>Future</code> parameter. In this case, Vert.x considers the verticle deployed when the <code>start</code> method returns.</p>
+<p>The <code>start</code> method creates an HTTP server and attaches a <em>request handler</em> to it. The request handler is a function (here a lambda), which is passed into the <code>requestHandler</code> method, and is called every time the server receives a request. In this code, we just reply <em>Hello</em> (Nothing fancy I told you). Finally, the server is bound to the <code>8080</code> port. As this may fail (because the port may already be used), we pass another lambda expression called with the result (and so are able to check whether or not the connection has succeeded). As mentioned above, it calls either <code>fut.complete</code> in case of success, or <code>fut.fail</code> to report an error.</p>
+<p>Before trying the application, edit the <code>pom.xml</code> file and add the <code>vertx.verticle</code> entry in the properties:</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;properties&gt;
+    &lt;vertx.version&gt;3.5.0&lt;/vertx.version&gt;
+    &lt;vmp.version&gt;1.0.13&lt;/vmp.version&gt;
+    &lt;!-- line to add: --&gt;
+    &lt;vertx.verticle&gt;io.vertx.intro.first.MyFirstVerticle&lt;/vertx.verticle&gt;
+&lt;/properties&gt;
+</pre>
+<p>This property instructs Vert.x to deploy this class when it starts.</p>
+<p>Let’s try to compile the application using:</p>
+<pre class="brush: plain; title: ; notranslate">
+mvn compile vertx:run
+</pre>
+<p>The application is started; open your browser to <a href="http://localhost:8080">http://localhost:8080</a> and you should see the <em>Hello</em> message. If you change the message in the code and save the file, the application is restarted with the updated message.</p>
+<p>Hit <code>CTRL+C</code> to stop the application.</p>
+<p>That’s all for the application.</p>
+<h2>Let’s test</h2>
+<p>Well, that’s good to have developed an application but we can never be too careful, so let’s test it. The test uses JUnit and <code>vertx-unit</code> &#8211; a framework delivered with Vert.x to make the testing of Vert.x application more natural.</p>
+<p>Open the <code>pom.xml</code> file to add the two following dependencies:</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;dependency&gt;
+  &lt;groupId&gt;junit&lt;/groupId&gt;
+  &lt;artifactId&gt;junit&lt;/artifactId&gt;
+  &lt;version&gt;4.12&lt;/version&gt;
+  &lt;scope&gt;test&lt;/scope&gt;
+&lt;/dependency&gt;
+&lt;dependency&gt;
+  &lt;groupId&gt;io.vertx&lt;/groupId&gt;
+  &lt;artifactId&gt;vertx-unit&lt;/artifactId&gt;
+  &lt;version&gt;${vertx.version}&lt;/version&gt;
+  &lt;scope&gt;test&lt;/scope&gt;
+&lt;/dependency&gt;
+</pre>
+<p>Now create the <code>src/test/java/io/vertx/intro/first/MyFirstVerticleTest.java</code> with the following content:</p>
+<pre class="brush: java; title: ; notranslate">
+package io.vertx.intro.first;
+
+import io.vertx.core.Vertx;
+import io.vertx.ext.unit.Async;
+import io.vertx.ext.unit.TestContext;
+import io.vertx.ext.unit.junit.VertxUnitRunner;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+
+@RunWith(VertxUnitRunner.class)
+public class MyFirstVerticleTest {
+
+    private Vertx vertx;
+
+    @Before
+    public void setUp(TestContext context) {
+        vertx = Vertx.vertx();
+        vertx.deployVerticle(MyFirstVerticle.class.getName(),
+            context.asyncAssertSuccess());
+    }
+
+    @After
+    public void tearDown(TestContext context) {
+        vertx.close(context.asyncAssertSuccess());
+    }
+
+    @Test
+    public void testMyApplication(TestContext context) {
+        final Async async = context.async();
+
+        vertx.createHttpClient().getNow(8080, &quot;localhost&quot;, &quot;/&quot;,
+            response -&gt;
+                response.handler(body -&gt; {
+                    context.assertTrue(body.toString().contains(&quot;Hello&quot;));
+                    async.complete();
+                }));
+    }
+}
+</pre>
+<p>This is a JUnit test case for our verticle. The test uses <code>vertx-unit</code>, so we configure a custom runner (with the <code>@RunWith</code> annotation). <code>vertx-unit</code> makes easy to test asynchronous interactions, which are the basis of Vert.x applications.</p>
+<p>In the <code>setUp</code> method (called before each test), we create an instance of <code>vertx</code> and deploy our verticle. You may have noticed that unlike the traditional JUnit <code>@Before</code> method, it receives a <code>TestContext</code> object. This object lets us control the asynchronous aspect of our test. For instance, when we deploy our verticle, it starts asynchronously, as do most Vert.x interactions. We cannot check anything until it gets started correctly. So, as a second argument of the <code>deployVerticle</code> method, we pass a result handler: <code>context.asyncAssertSuccess()</code>. It fails the test if the verticle does not start correctly. In addition, it waits until the verticle has completed its start sequence. Remember, in our verticle, we call <code>fut.complete()</code>. So it waits until this method is called, and in the case of failures, fails the test.</p>
+<p>Well, the <code>tearDown</code> (called after each test) method is straightforward, and just closes the <code>vertx</code> instance we created.</p>
+<p>Let’s now have a look at the test of our application: the <code>testMyApplication</code> method. The test emits a request to our application and checks the result. Emitting the request and receiving the response is asynchronous. So we need a way to control this. Like the <code>setUp</code> and <code>tearDown</code> methods, the test method receives a <code>TestContext</code>. From this object we create an async handle (<code>async</code>) that lets us notify the test framework when the test has completed (using <code>async.complete()</code>).</p>
+<p>So, once the async handle is created, we create an HTTP client and emit an HTTP request handled by our application with the <code>getNow()</code> method (<code>getNow</code> is just a shortcut for <code>get(...).end()</code>). The response is handled by a handler. In this function, we retrieve the response body by passing another function to the handler method. The <code>body</code> argument is the response body (as a <code>buffer</code> object). We check that the body contains<code>"Hello"</code> and declare the test complete.</p>
+<p>Let’s take a minute to mention the assertions. Unlike in traditional JUnit tests, it uses <code>context.assert</code>&#8230;. Indeed, if the assertion fails, it will interrupt the test immediately. So it’s important to use these assertions because of the asynchronous aspect of the Vert.x application and tests. However, Vert.x Unit provides hooks to let you use Hamcrest or AssertJ, as demonstrated in this <a href="https://github.com/vert-x3/vertx-examples/blob/master/unit-examples/src/test/java/io/vertx/example/unit/test/JUnitAndHamcrestTest.java">example</a> and this other <a href="https://github.com/vert-x3/vertx-examples/blob/master/unit-examples/src/test/java/io/vertx/example/unit/test/JUnitAndAssertJTest.java">example</a>.</p>
+<p>Our test can be run from an IDE, or using Maven:</p>
+<pre class="brush: plain; title: ; notranslate">
+mvn clean test
+</pre>
+<h2>Packaging</h2>
+<p>So, let’s sum up. We have an application and a test. Let’s now package the application. In this post we package the application in a <em>fat jar</em>. A fat jar is a standalone executable Jar file containing all the dependencies required to run the application. This is a very convenient way to package Vert.x applications, as it’s only one file. It also makes them easy to execute.</p>
+<p>To create a fat jar, just run:</p>
+<pre class="brush: plain; title: ; notranslate">
+mvn clean package
+</pre>
+<p>The <code>vertx-maven-plugin</code> is taking care of the packaging and creates the <code>target/my-first-app-1.0-SNAPSHOT.jar</code> file embedding our application along with all the dependencies (including Vert.x itself). Check the size: around 6MB; and this includes everything to run the application.</p>
+<h2>Executing our application</h2>
+<p>Well, it’s nice to have a jar, but we want to see our application running! As stated above, thanks to the fat jar packaging, running the Vert.x application is easy:</p>
+<pre class="brush: plain; title: ; notranslate">
+java -jar target/my-first-app-1.0-SNAPSHOT.jar
+</pre>
+<p>Then, open a browser to <a href="http://localhost:8080">http://localhost:8080</a>.</p>
+<p>To stop the application, hit <code>CTRL+C</code>.</p>
+<h2>Conclusion</h2>
+<p>This Vert.x <em>crash course</em> has presented: how you can develop a simple application using Vert.x; how to test it, package it, and run it. So you now have a great start on the road to building an amazing system on top of Vert.x. Next time we will see how to configure our application.</p>
+<p>Happy coding &amp; Stay tuned!</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;linkname=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;linkname=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;linkname=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;linkname=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;linkname=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;linkname=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;linkname=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;linkname=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Feclipse-vertx-first-application%2F&amp;title=Introduction%20to%20Eclipse%20Vert.x%20%E2%80%93%20My%20First%20Vert.x%20Application" data-a2a-url="https://developers.redhat.com/blog/2018/03/13/eclipse-vertx-first-application/" data-a2a-title="Introduction to Eclipse Vert.x – My First Vert.x Application"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/13/eclipse-vertx-first-application/">Introduction to Eclipse Vert.x &#8211; My First Vert.x Application</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/13/eclipse-vertx-first-application/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">463637</post-id>    </item>
+        <item>
+        <title>Istio Route Rules: Telling Service Requests Where To Go</title>
+        <link>https://developers.redhat.com/blog/2018/03/13/istio-route-rules-service-requests/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/13/istio-route-rules-service-requests/#respond</comments>
+        <pubDate>Tue, 13 Mar 2018 12:00:52 +0000</pubDate>
+        <dc:creator><![CDATA[Don Schenck]]></dc:creator>
+                <category><![CDATA[Container Development Kit]]></category>
+        <category><![CDATA[Containers]]></category>
+        <category><![CDATA[DevOps]]></category>
+        <category><![CDATA[Java]]></category>
+        <category><![CDATA[Microservices]]></category>
+        <category><![CDATA[Node.js]]></category>
+        <category><![CDATA[Uncategorized]]></category>
+        <category><![CDATA[containers]]></category>
+        <category><![CDATA[Developer Tools]]></category>
+        <category><![CDATA[Docker]]></category>
+        <category><![CDATA[microservices]]></category>
+        <category><![CDATA[minishift]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=464037</guid>
+        <description><![CDATA[<p>OpenShift and Kubernetes do a great job of working to make sure calls to your microservice are routed to the correct pods. After all, that&#8217;s one of the raison d&#8217;être for Kubernetes: routing and load balancing. What if, however, you want to customize the routing? What if you want to run two versions at the same [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/13/istio-route-rules-service-requests/">Istio Route Rules: Telling Service Requests Where To Go</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<p><a href="https://developers.redhat.com/products/openshift/overview/">OpenShift</a> and <a href="https://www.redhat.com/en/topics/containers/what-is-kubernetes">Kubernetes</a> do a great job of working to make sure calls to your microservice are routed to the correct pods. After all, that&#8217;s one of the raison d&#8217;être for Kubernetes: routing and load balancing. What if, however, you want to customize the routing? What if you want to run two versions at the same time? How do <a href="https://istio.io/">Istio</a> Route Rules handle this?</p>
+<p><span id="more-464037"></span></p>
+<p>Route rules are, well, rules that determine routing. While the possible configurations can get quite complicated, the overall functionality remains simple: route the request based on certain parameters and HTTP header values. Let&#8217;s look at some examples.</p>
+<p>[Note: part one of this series can be found <a href="https://developers.redhat.com/blog/2018/03/06/introduction-istio-makes-mesh-things/">here</a>.]</p>
+<h2>Kubernetes default: 50/50 Split</h2>
+<p>This example allows you to use two versions of a microservice. Let&#8217;s call them &#8220;v1&#8221; and &#8220;v2&#8221;, running in OpenShift. With each running in its own Kubernetes-managed pod, the default behavior is an evenly balanced, round robin routing. Each pod will receive a percentage of requests based on its number of microservice instances, or replicas. With Istio we can change that balance.</p>
+<p>For this example, we have two deployments of our &#8220;recommendation&#8221; service running in OpenShift, named &#8220;recommendation-v1&#8221; and &#8220;recommendation-v2&#8221;.</p>
+<p>In Figure 1, we see the results of each service running one instance of their respective microservices with an even distribution between them. Looking at the screen capture, you can clearly see the 1&#8211;2-1-2-&#8230; pattern. This is the default routing from Kubernetes:</p>
+<p><img class=" alignnone size-large  wp-image-464207 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_one_v2_default-900x1024.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_one_v2_default-900x1024.png" alt="" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_one_v2_default-900x1024.png 900w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_one_v2_default-264x300.png 264w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_one_v2_default-768x874.png 768w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_one_v2_default.png 1200w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<h2>Multiple Versions, Weighted Distribution</h2>
+<p>In Figure 2, we see the results after increasing the number of v2 replicas to two (the command is <code>oc scale --replicas=2 deployment/recommendation-v2</code>). As you would expect, the mix is now 1/3 for v1, 2/3 for v2. The 1-2-2-1-2-2-&#8230; pattern is obvious:</p>
+<p><img class=" alignnone size-large  wp-image-464167 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_two_v2_defaault-906x1024.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_two_v2_defaault-906x1024.png" alt="" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_two_v2_defaault-906x1024.png 906w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_two_v2_defaault-266x300.png 266w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_two_v2_defaault-768x868.png 768w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/one_v1_two_v2_defaault.png 1188w" sizes="(max-width: 906px) 100vw, 906px" /></p>
+<h2>Ignoring a Version with Istio</h2>
+<p>Using Istio, we can alter this distribution just about any way we please. For example, we can direct all traffic to recommendation-v1 using the following Istio yaml file:</p>
+<p><img class=" alignnone size-large  wp-image-464407 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.49.03-PM.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.49.03-PM.png" alt="" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.49.03-PM.png 339w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.49.03-PM-300x232.png 300w" sizes="(max-width: 339px) 100vw, 339px" /></p>
+<p>Here are some things to notice. The pods are selected by using their labels. In this example, the &#8220;v1&#8221; label is being used. The weight is 100; meaning 100% of the traffic will be routed to all recommendation pods with the v1 label.</p>
+<h2>Uneven Version Split (Canary Deployment)</h2>
+<p>Next, using the weight parameter, we can direct traffic to both pods without regard to the number of microservice instances running in each. For example, here we are directing 90% of the traffic to v1 and 10% percent to v2:</p>
+<p><img class=" alignnone size-large  wp-image-464447 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.54.56-PM.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.54.56-PM.png" alt="" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.54.56-PM.png 331w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.54.56-PM-300x292.png 300w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.54.56-PM-32x32.png 32w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.54.56-PM-50x50.png 50w" sizes="(max-width: 331px) 100vw, 331px" /></p>
+<h2>Mobile Users Only</h2>
+<p>For our final example, we&#8217;ll route mobile users to v2, while everyone else is directed to v1. This is done by using a regular expression to choose the client based on the user-agent value in the request header.</p>
+<p><img class="  alignnone size-large   wp-image-464497 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.57.37-PM.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.57.37-PM.png" alt="" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.57.37-PM.png 330w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.57.37-PM-287x300.png 287w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-8.57.37-PM-32x32.png 32w" sizes="(max-width: 330px) 100vw, 330px" /></p>
+<h2>What can <em>you</em> do?</h2>
+<p>Seeing this example of using a regular expression to select a request based on information in the header should get the creative wheels turning. The power is unlimited, given that you can inject header values in to your source code.</p>
+<h2>Ops, not Dev</h2>
+<p>Keep in mind, all of this is happening without any changes to your code; excepting of course, the unique case where you inject values into the request header. Developers will benefit from the knowledge of Istio and will undoubtedly use it in developmental testing. In production, Istio configuration will most likely be a function of the operations team.</p>
+<p>I cannot stress this enough: <em>there are no changes to your source code</em>. You do not need to build a new image or start a new container. This all happens outside of your source code.</p>
+<h2>Let Your Mind Wander</h2>
+<p>Because you can use regular expressions against the request header, just imagine how powerful that is. Want to direct your biggest customer to a special version of your microservice? How about those that use the Google Chrome browser? Pretty much any characteristic you want can be used to direct traffic.</p>
+<h2>Try it for yourself, for free</h2>
+<p>Reading about Istio, Kubernetes and OpenShift is one thing, but wouldn&#8217;t you rather give it a try for yourself? <a href="https://developers.redhat.com/">The Red Hat Developer Program</a> team has put together a detailed and thorough tutorial that you can use immediately to jump into these leading technologies. It&#8217;s open source, so there&#8217;s no cost. It works on macOS, Linux and Windows, with source code in Java or node.js (with more languages coming soon). Point your browser to the <a href="https://github.com/redhat-developer-demos/istio-tutorial">Red Hat Developer Demo github repo</a> and get started today.</p>
+<h2>Next: Gracefully Handling Problems</h2>
+<p>This is the power of Istio Route Rules. Now imagine if you could use this power to handle errors. That will be covered in our next blog post.<br />
+Stay tuned!</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;linkname=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;linkname=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;linkname=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;linkname=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;linkname=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;linkname=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;linkname=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;linkname=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F13%2Fistio-route-rules-service-requests%2F&amp;title=Istio%20Route%20Rules%3A%20Telling%20Service%20Requests%20Where%20To%20Go" data-a2a-url="https://developers.redhat.com/blog/2018/03/13/istio-route-rules-service-requests/" data-a2a-title="Istio Route Rules: Telling Service Requests Where To Go"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/13/istio-route-rules-service-requests/">Istio Route Rules: Telling Service Requests Where To Go</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/13/istio-route-rules-service-requests/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">464037</post-id>    </item>
+        <item>
+        <title>3Scale by Red Hat Integration with ForgeRock using OpenID Connect</title>
+        <link>https://developers.redhat.com/blog/2018/03/12/3scale-red-hat-integration-forgerock-using-openid-connect/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/12/3scale-red-hat-integration-forgerock-using-openid-connect/#respond</comments>
+        <pubDate>Mon, 12 Mar 2018 23:58:44 +0000</pubDate>
+        <dc:creator><![CDATA[Vinay Bhalerao]]></dc:creator>
+                <category><![CDATA[Red Hat 3scale API Management]]></category>
+        <category><![CDATA[Security]]></category>
+        <category><![CDATA[API]]></category>
+        <category><![CDATA[API-Management]]></category>
+        <category><![CDATA[identity provider]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=459397</guid>
+        <description><![CDATA[<p>In my last article, I wrote about how API Management and Identity Management can work together in a complementary fashion to secure and manage the services/endpoints which applications expose as APIs. In that article I covered how Red Hat 3scale API Management can be used to integrate an identity manager, in addition to providing API management [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/12/3scale-red-hat-integration-forgerock-using-openid-connect/">3Scale by Red Hat Integration with ForgeRock using OpenID Connect</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<p id="bd41" class="graf graf--p graf-after--h3">In my <a class="markup--anchor markup--p-anchor" href="https://developers.redhat.com/blog/2018/03/06/redhat-3scale-identity-management/" target="_blank" rel="noopener">last article</a>, I wrote about how API Management and Identity Management can work together in a complementary fashion to secure and manage the services/endpoints which applications expose as APIs. In that article I covered how Red Hat 3scale API Management can be used to integrate an identity manager, in addition to providing API management functions such as rate limiting and throttling.</p>
+<p id="561a" class="graf graf--p graf-after--p">This article will show how to integrate <a href="https://www.forgerock.com/">ForgeRock</a> with 3scale by Red Hat. ForgeRock is one of the popular and growing identity management companies. ForgeRock helps organizations interact securely with customers, employees, devices, and things.</p>
+<p><img class=" alignnone size-full  wp-image-466467 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/img_5aa6d11a1b2eb.gif"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/img_5aa6d11a1b2eb.gif" alt="" /></p>
+<p id="5c4a" class="graf graf--p graf-after--p">For this tutorial, the following installers are used:</p>
+<ul class="postList">
+<li id="cbac" class="graf graf--li graf-after--p"><a class="markup--anchor markup--li-anchor" href="https://backstage.forgerock.com/downloads/" target="_blank" rel="nofollow noopener">ForgeRock OpenAM 13.0.0</a></li>
+<li id="b931" class="graf graf--li graf-after--li"><a class="markup--anchor markup--li-anchor" href="https://github.com/3scale/apicast" target="_blank" rel="nofollow noopener">3scale APIcast API gateway v3.0</a></li>
+<li id="e873" class="graf graf--li graf-after--li">3scale SAAS API Manager</li>
+</ul>
+<p id="b5ed" class="graf graf--p graf-after--li">Below are the components:</p>
+<figure id="bedb" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*Y0ND-RaA1DNVinbxEQqCkw.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="936e" class="graf graf--p graf-after--figure"><strong class="markup--strong markup--p-strong">Workflow</strong></p>
+<ol class="postList">
+<li id="9f54" class="graf graf--li graf-after--p">Client App sends requests to APIcast API gateway with desired request parameters.</li>
+<li id="0cb3" class="graf graf--li graf-after--li">APIcast verifies the credentials with API Manager, and stores in cache if valid.</li>
+<li id="b3fc" class="graf graf--li graf-after--li">APIcast sends the request to ForgeRock, where it authenticates the user and obtains end user consent/authorization.</li>
+<li id="f783" class="graf graf--li graf-after--li">ForgeRock sends the End-User back to the Client with an <code class="markup--code markup--li-code">id_token</code>, and if requested, an <code class="markup--code markup--li-code">access_token</code>.</li>
+<li id="1db4" class="graf graf--li graf-after--li">For every API call, the JWT token is sent via APIcast to API backend where it verifies the incoming <code class="markup--code markup--li-code">JWT</code> with the ForgeRock<em class="markup--em markup--li-em"> public key</em>. If valid, then proxy the call to the API backend.</li>
+<li id="268d" class="graf graf--li graf-after--li">The backend API extracts the JWT, verifies the scope for the user, and sends back an API response to the client application.</li>
+</ol>
+<p id="edeb" class="graf graf--p graf-after--li"><strong class="markup--strong markup--p-strong">Sequence Diagram</strong></p>
+<figure id="40dd" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*w2Ks2ZDMC9tfoSGgddRpGg.png" width="573" height="321" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="b1c4" class="graf graf--p graf-after--figure">To complete the end-to-end integration we should set up all pieces one by one. Below are the components and the instructions.</p>
+<h3 id="093f" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">Setting up API backend</strong></h3>
+<p id="7d59" class="graf graf--p graf-after--h3">For this demo, I will be using the <a class="markup--anchor markup--p-anchor" href="https://echo-api.3scale.net/" target="_blank" rel="nofollow noopener">echo API</a> service hosted by 3scale by Red Hat. You can always write a service that will extract the JWT, parse the JSON payload, extract the user profile, and send back the product subscription status for that user.</p>
+<h3 id="73bd" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">Setting up API Manager</strong></h3>
+<ol class="postList">
+<li id="7ba2" class="graf graf--li graf-after--h3">Login to 3scale by Red Hat admin portal.</li>
+<li id="5771" class="graf graf--li graf-after--li">Select the service that you want to use to enable OpenId Connect integration with ForgeRock. Click on the <strong class="markup--strong markup--li-strong">APIs</strong> tab, select the <em class="markup--em markup--li-em">Service,</em> and click on the <strong class="markup--strong markup--li-strong">Integration</strong> link. We are using the default <em class="markup--em markup--li-em">Echo API:</em></li>
+</ol>
+<figure id="7fae" class="graf graf--figure graf-after--li">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*oRRlZQwO1FtOb0htSuc7yQ.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="69a8" class="graf graf--p graf-after--figure">3. Click on <code class="markup--code markup--p-code">edit integration settings</code>:</p>
+<figure id="493b" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*T0_04isIt0HChFfM9dLH6A.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="ab9a" class="graf graf--p graf-after--figure">4. Select <code class="markup--code markup--p-code">OpenID Connect</code> and click on <code class="markup--code markup--p-code">Update Service</code>:</p>
+<figure id="fabf" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*JYvpVIihVLadNK_kCklICA.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="0401" class="graf graf--p graf-after--figure">5. Go back to the integration page, and click on <code class="markup--code markup--p-code">edit APIcast configuration</code>:</p>
+<figure id="9e20" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*zx0LPrw_l_Unvmq-RPGdGw.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="7027" class="graf graf--p graf-after--figure">6. Enter the <code class="markup--code markup--p-code">Staging and Production base URL</code>. We will deploy the APIcast gateway locally on docker, so name it as <code class="markup--code markup--p-code">http://localhost:8080</code>:</p>
+<figure id="a9ed" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*6wiA3jef4yKKMtbV3pF72g.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="0b2f" class="graf graf--p graf-after--figure">7. Finally, click on <code class="markup--code markup--p-code">Update Staging Environment</code>. You can also promote it to Production (optional).</p>
+<p id="d6a5" class="graf graf--p graf-after--p">8. Create an <code class="markup--code markup--p-code">application</code> and get the <code class="markup--code markup--p-code">client_id</code> and <code class="markup--code markup--p-code">client_secret</code> .</p>
+<p id="f598" class="graf graf--p graf-after--p">8.1 Go to the Developers tab and click on <code class="markup--code markup--p-code">Developers</code>:</p>
+<figure id="5680" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*uVCZR5YPAHdrLJVGMT5zJg.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="b011" class="graf graf--p graf-after--figure">8.2 Click on <code class="markup--code markup--p-code">Application</code>:</p>
+<figure id="8f85" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*a63tiKpb91X5FyNo8QtJmQ.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="d8fe" class="graf graf--p graf-after--figure">8.3 Click on <code class="markup--code markup--p-code">Create Application</code> link:</p>
+<figure id="f91e" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*J7xe8jd6H_F8gUTwDwuYKg.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="31f5" class="graf graf--p graf-after--figure">8.4 Select the <code class="markup--code markup--p-code">Application Plan</code> for the service and then click on <code class="markup--code markup--p-code">Create Application</code>:</p>
+<figure id="d242" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*F2Bt1rYIhi3P9X497d1AvA.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="6423" class="graf graf--p graf-after--figure">8.5 Note down the <code class="markup--code markup--p-code">client_id</code> and <code class="markup--code markup--p-code">client_secret</code> .  We will use the Postman to test our integration so we will fill in the callback information with a fixed link. Type in `https://www.getpostman.com/oauth2/callback`. in the Redirect URL field. Click on the Update button.</p>
+<figure id="c941" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*Xw-NIQfvSTkcTsZOO0hllA.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="9092" class="graf graf--p graf-after--figure">That’s all!<br />
+Now let’s move toward the <strong class="markup--strong markup--p-strong">ForgeRock</strong> setup.</p>
+<p id="3e5b" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">Setting up ForgeRock</strong></p>
+<p id="9c8b" class="graf graf--p graf-after--p">Installation of ForgeRock is outside the scope of this tutorial. Please refer ForgeRock documentation for installation. After installing ForgeRock, make sure you are able to access the URL on <a class="markup--anchor markup--p-anchor" href="http://vbhalera.osecloud.com:8080/openam" target="_blank" rel="nofollow noopener">http://openam.mydomain.com:8080/openam</a>.</p>
+<ol class="postList">
+<li id="be7b" class="graf graf--li graf-after--p">Create <code class="markup--code markup--li-code">Realm</code>:</li>
+</ol>
+<figure id="a36d" class="graf graf--figure graf-after--li">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"> <img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*-cK0ts8u_LQjFY8CKTfcjQ.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="e9ca" class="graf graf--p graf-after--figure">2. Click on <code class="markup--code markup--p-code">Configure Oauth Provider</code> → <code class="markup--code markup--p-code">Configure OpenID Connect</code>:</p>
+<figure id="51ba" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"> <img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*7VT-lVIaG2Ko-mTlyRf8fA.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="9f08" class="graf graf--p graf-after--figure">3. Click on <code class="markup--code markup--p-code">Create</code>:</p>
+<figure id="672f" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"> <img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*-W7JXCF3Q5QsBiEca2fPBA.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="ff32" class="graf graf--p graf-after--figure">4. Creating (or syncing) the 3scale by Red Hat <code class="markup--code markup--p-code">client_id</code> with ForgeRock.</p>
+<blockquote id="0bc6" class="graf graf--blockquote graf-after--p"><p>Our lead developer,<a class="markup--anchor markup--blockquote-anchor" href="https://github.com/mikz" target="_blank" rel="nofollow noopener"> Michal Cichra</a>, wrote a tool called <a class="markup--anchor markup--blockquote-anchor" href="https://github.com/3scale/zync" target="_blank" rel="nofollow noopener">Zync</a> to synchronize all 3scale by Red Hat client_ids to IDP. So every time when an application is created (i.e <code class="markup--code markup--blockquote-code">client_id</code> and <code class="markup--code markup--blockquote-code">client_secret</code>  on 3scale by Red Hat), the same is automatically created on the IDP side. For this exercise, I have manually created the client_ids using the below registration. If you prefer to create the ids runtime, edit the tool with the client registration endpoint of ForgeRock. PRs are welcome.</p></blockquote>
+<p>&nbsp;</p>
+<p id="776e" class="graf graf--p graf-after--blockquote">4.1 Click on <code class="markup--code markup--p-code">Agents</code> → <code class="markup--code markup--p-code">Oauth2.0/OpenID Connect Client</code> → <code class="markup--code markup--p-code">New</code>:</p>
+<figure id="bc85" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"> <img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*GT1-V99W4sdCzKlUlEDbdg.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="d1ed" class="graf graf--p graf-after--figure">4.2 Copy the 3scale by Red Hat <code class="markup--code markup--p-code">client_id</code> and <code class="markup--code markup--p-code">client_secret</code> from the admin portal that you created earlier. Enter <code class="markup--code markup--p-code">Name</code> as <code class="markup--code markup--p-code">client_id</code> and <code class="markup--code markup--p-code">Password</code> as <code class="markup--code markup--p-code">client_secret</code>. Click <strong class="markup--strong markup--p-strong">Create:</strong></p>
+<figure id="e191" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*C3CJ_qqiayvYBhfCfW4w3Q.png" /></div>
+</div>
+</figure>
+<p id="9d6e" class="graf graf--p graf-after--figure">4.3 Enter <code class="markup--code markup--p-code">Redirection URIs</code> → <a class="markup--anchor markup--p-anchor" href="https://www.getpostman.com/oauth2/callback" target="_blank" rel="nofollow noopener">https://www.getpostman.com/oauth2/callback</a> and <code class="markup--code markup--p-code">Scope</code> → openid. Click <strong class="markup--strong markup--p-strong">Save:</strong></p>
+<figure id="9a05" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"> <img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*8625s_zemH4AF84GLHpP7Q.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="0cd6" class="graf graf--p graf-after--figure">5. Creating an <strong class="markup--strong markup--p-strong">End user</strong> that will Authenticate against the IDP.</p>
+<p id="2911" class="graf graf--p graf-after--p">5.1 Goto <code class="markup--code markup--p-code">Realms</code> → <code class="markup--code markup--p-code">Subjects.</code> Click on <strong class="markup--strong markup--p-strong">New:</strong></p>
+<figure id="8feb" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"> <img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*_wktqy88hMp7HbZWl2X4fw.png" /></div>
+</div>
+</figure>
+<p id="b040" class="graf graf--p graf-after--figure">5.2 Enter `ID: apiUser` and `password: 12345678`:</p>
+<figure id="5a61" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"> <img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*cs6K0BFEVrbiPeDrfnCYpg.png" /></div>
+</div>
+</figure>
+<p id="7c92" class="graf graf--p graf-after--figure">All set for ForgeRock!</p>
+<p id="13da" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">Setting up APIcast API gateway</strong></p>
+<p id="96f6" class="graf graf--p graf-after--p">Make sure to install <em class="markup--em markup--p-em">docker</em> and <em class="markup--em markup--p-em">docker-compose</em> before executing the next commands. We will be running APIcast API gateway locally and it will accept all incoming requests from the client.</p>
+<pre id="68cd" class="graf graf--pre graf-after--p">1. git clone git@github.com:VinayBhalerao/3scale-forgerock-integration.git
+2. Edit the .env file per your setup
+3. docker-compose up
+</pre>
+<h3 id="6322" class="graf graf--h3 graf-after--pre"><strong class="markup--strong markup--h3-strong">Send Request to APIcast</strong></h3>
+<ol class="postList">
+<li id="c530" class="graf graf--li graf-after--h3">Send Authorize request to APIcast</li>
+</ol>
+<pre id="0890" class="graf graf--pre graf-after--li">GET <a class="markup--anchor markup--pre-anchor" href="http://localhost:8080/authorize?client_id=21657b2d&amp;scope=openid&amp;response_type=token" target="_blank" rel="nofollow noopener">http://localhost:8080/authorize?client_id=21657b2d&amp;scope=openid&amp;response_type=token</a> id_token&amp;nonce=1234&amp;redirect_uri=<a class="markup--anchor markup--pre-anchor" href="https://www.getpostman.com/oauth2/callback&amp;realm=internal" target="_blank" rel="nofollow noopener">https://www.getpostman.com/oauth2/callback&amp;realm=internal</a></pre>
+<pre id="3dd1" class="graf graf--pre graf-after--pre"><strong class="markup--strong markup--pre-strong">where,</strong></pre>
+<pre id="1ee4" class="graf graf--pre graf-after--pre">client_id = 3scale client id
+scope = openid
+response_type = token id_token
+nonce = 1234
+redirect_uri = <a class="markup--anchor markup--pre-anchor" href="https://www.getpostman.com/oauth2/callback" target="_blank" rel="nofollow noopener">https://www.getpostman.com/oauth2/callback</a>
+realm = internal</pre>
+<p>&nbsp;</p>
+<p id="20d1" class="graf graf--p graf-after--pre">2. A login page is shown from Forgerock. Enter the credentials that we created earlier for End User:</p>
+<p id="eaad" class="graf graf--p graf-after--p">Enter credentials as: apiUser / 12345678 :</p>
+<figure id="8124" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*PpMKRT9-kvAGd97aUQKmNg.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="bb4a" class="graf graf--p graf-after--figure">Click on <strong class="markup--strong markup--p-strong">Allow:</strong></p>
+<figure id="f987" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*0fGum_pzcsnVPrx38Qql_w.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="ac6e" class="graf graf--p graf-after--figure">An <code class="markup--code markup--p-code">access_token</code> and <code class="markup--code markup--p-code">id_token</code>is redirected back to the application. The <code class="markup--code markup--p-code">id_token</code> is the JWT token generated by the IDP.</p>
+<p id="4b9c" class="graf graf--p graf-after--p">Paste the token on JWT.io website to decrypt the contents (optional):</p>
+<figure id="8449" class="graf graf--figure graf-after--p">
+<div class="aspectRatioPlaceholder is-locked">
+<div class="aspectRatioPlaceholder-fill"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/800/1*vb9adJ8svZapGhCp4eN4Pw.png" /></div>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p id="8a55" class="graf graf--p graf-after--figure">The above token is sent to the APIcast gateway for every call. The gateway will verify the signature of JWT using the <em class="markup--em markup--p-em">public key</em>. If valid, the call is proxied to the API backend along with the JWT. It’s then the backend responsibility to base64 decode the JWT, extract the user profile from JSON payload, and then (depending on the profile) send back the API response. [Refer <a class="markup--anchor markup--p-anchor" href="https://nordicapis.com/how-to-control-user-identity-within-microservices/#comment-3637019878" target="_blank" rel="nofollow noopener">How microservices verify a JWT</a> for in-depth details]</p>
+<p id="cced" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">Request and Response from APIcast:</strong></p>
+<pre id="50bc" class="graf graf--pre graf-after--p">curl -H "Authorization: Bearer eyAidHlwIjogIkpXVCIsICJraWQiOiAiU3lsTEM2Tmp0MUtHUWt0RDlNdCswemNlUVNVPSIsICJhbGciOiAiUlMyNTYiIH0.eyAiYXRfaGFzaCI6ICJUcUd5c2dRZURsWDhIOFNHR1FjcEF3IiwgInN1YiI6ICJhcGlVc2VyIiwgImlzcyI6ICJodHRwOi8vdmJoYWxlcmEub3NlY2xvdWQuY29tOjgwODAvb3BlbmFtL29hdXRoMi9pbnRlcm5hbCIsICJ0b2tlbk5hbWUiOiAiaWRfdG9rZW4iLCAibm9uY2UiOiAiMTIzNCIsICJhdWQiOiBbICIyMTY1N2IyZCIgXSwgIm9yZy5mb3JnZXJvY2sub3BlbmlkY29ubmVjdC5vcHMiOiAiNjk2YmRlNTYtZmNiZi00ZTFkLWIzOGItYmMzNzQ4OGVhODRiIiwgImF6cCI6ICIyMTY1N2IyZCIsICJhdXRoX3RpbWUiOiAxNTE2OTE3NTQwLCAicmVhbG0iOiAiL2ludGVybmFsIiwgImV4cCI6IDE1MTY5MjEyMzUsICJ0b2tlblR5cGUiOiAiSldUVG9rZW4iLCAiaWF0IjogMTUxNjkxNzYzNSB9.SuYI1tP5uJ94y8XRc6QQClXlmuLzMFEcE1LlW_31GafXv91jg3QwbRI-1RV1XOISfWnLW7l-1eGyKZtK_P8nroLjXYs2c-HrIgTwK16FBTcM9-Gt_jzbntwN4hiLD4PbhVb562fTkdqQCA4ZlNR9QOmQUE0ZKlMSwB3b0bNSmys" <a class="markup--anchor markup--pre-anchor" href="http://localhost:8080/subscriptions" target="_blank" rel="nofollow noopener">http://localhost:8080/subscriptions</a> -v
+*   Trying ::1...
+* Connected to localhost (::1) port 8080 (#0)
+&gt; GET /subscriptions HTTP/1.1
+&gt; Host: localhost:8080
+&gt; User-Agent: curl/7.43.0
+&gt; Accept: */*
+&gt; Authorization: Bearer eyAidHlwIjogIkpXVCIsICJraWQiOiAiU3lsTEM2Tmp0MUtHUWt0RDlNdCswemNlUVNVPSIsICJhbGciOiAiUlMyNTYiIH0.eyAiYXRfaGFzaCI6ICJUcUd5c2dRZURsWDhIOFNHR1FjcEF3IiwgInN1YiI6ICJhcGlVc2VyIiwgImlzcyI6ICJodHRwOi8vdmJoYWxlcmEub3NlY2xvdWQuY29tOjgwODAvb3BlbmFtL29hdXRoMi9pbnRlcm5hbCIsICJ0b2tlbk5hbWUiOiAiaWRfdG9rZW4iLCAibm9uY2UiOiAiMTIzNCIsICJhdWQiOiBbICIyMTY1N2IyZCIgXSwgIm9yZy5mb3JnZXJvY2sub3BlbmlkY29ubmVjdC5vcHMiOiAiNjk2YmRlNTYtZmNiZi00ZTFkLWIzOGItYmMzNzQ4OGVhODRiIiwgImF6cCI6ICIyMTY1N2IyZCIsICJhdXRoX3RpbWUiOiAxNTE2OTE3NTQwLCAicmVhbG0iOiAiL2ludGVybmFsIiwgImV4cCI6IDE1MTY5MjEyMzUsICJ0b2tlblR5cGUiOiAiSldUVG9rZW4iLCAiaWF0IjogMTUxNjkxNzYzNSB9.SuYI1tP5uJ94y8XRc6QQClXlmuLzMFEcE1LlW_31GafXv91jg3QwbRI-1RV1XOISfWnLW7l-1eGyKZtK_P8nroLjXYs2c-HrIgTwK16FBTcM9-Gt_jzbntwN4hiLD4PbhVb562fTkdqQCA4ZlNR9QOmQUE0ZKlMSwB3b0bNSmys
+&gt;
+&lt; HTTP/1.1 200 OK
+&lt; Server: openresty/1.11.2.2
+&lt; Date: Thu, 25 Jan 2018 22:03:31 GMT
+&lt; Content-Type: application/json
+&lt; Content-Length: 1480
+&lt; Connection: keep-alive
+&lt; Cache-control: private
+&lt; Set-Cookie: d8c1dd0e39ac4456ed39ce5889b9a5a5=e3380f4380dfce29d71b1a31cd3dd973; path=/; HttpOnly
+&lt; Vary: Origin
+&lt; X-Content-Type-Options: nosniff
+&lt;
+{
+  "method": "GET",
+  "path": "/subscriptions",
+  "args": "",
+  "body": "",
+  "headers": {
+    "HTTP_VERSION": "HTTP/1.1",
+    "HTTP_HOST": "echo-api.3scale.net",
+    "HTTP_ACCEPT": "*/*",
+    "HTTP_AUTHORIZATION": "Bearer eyAidHlwIjogIkpXVCIsICJraWQiOiAiU3lsTEM2Tmp0MUtHUWt0RDlNdCswemNlUVNVPSIsICJhbGciOiAiUlMyNTYiIH0.eyAiYXRfaGFzaCI6ICJUcUd5c2dRZURsWDhIOFNHR1FjcEF3IiwgInN1YiI6ICJhcGlVc2VyIiwgImlzcyI6ICJodHRwOi8vdmJoYWxlcmEub3NlY2xvdWQuY29tOjgwODAvb3BlbmFtL29hdXRoMi9pbnRlcm5hbCIsICJ0b2tlbk5hbWUiOiAiaWRfdG9rZW4iLCAibm9uY2UiOiAiMTIzNCIsICJhdWQiOiBbICIyMTY1N2IyZCIgXSwgIm9yZy5mb3JnZXJvY2sub3BlbmlkY29ubmVjdC5vcHMiOiAiNjk2YmRlNTYtZmNiZi00ZTFkLWIzOGItYmMzNzQ4OGVhODRiIiwgImF6cCI6ICIyMTY1N2IyZCIsICJhdXRoX3RpbWUiOiAxNTE2OTE3NTQwLCAicmVhbG0iOiAiL2ludGVybmFsIiwgImV4cCI6IDE1MTY5MjEyMzUsICJ0b2tlblR5cGUiOiAiSldUVG9rZW4iLCAiaWF0IjogMTUxNjkxNzYzNSB9.SuYI1tP5uJ94y8XRc6QQClXlmuLzMFEcE1LlW_31GafXv91jg3QwbRI-1RV1XOISfWnLW7l-1eGyKZtK_P8nroLjXYs2c-HrIgTwK16FBTcM9-Gt_jzbntwN4hiLD4PbhVb562fTkdqQCA4ZlNR9QOmQUE0ZKlMSwB3b0bNSmys",
+    "HTTP_USER_AGENT": "curl/7.43.0",
+    "HTTP_X_3SCALE_PROXY_SECRET_TOKEN": "secret_token_vinay_demo",
+    "HTTP_X_REAL_IP": "172.21.0.1",
+    "HTTP_X_FORWARDED_FOR": "76.102.119.200, 10.0.103.186",
+    "HTTP_X_FORWARDED_HOST": "echo-api.3scale.net",
+    "HTTP_X_FORWARDED_PORT": "443",
+    "HTTP_X_FORWARDED_PROTO": "https",
+    "HTTP_FORWARDED": "for=10.0.103.186;host=echo-api.3scale.net;proto=https"
+  },
+  "uuid": "4b100977-4b31-4dc7-9b45-bf5dadb50d97"
+* Connection #0 to host localhost left intact</pre>
+<p id="6dd3" class="graf graf--p graf-after--pre graf--trailing">Thanks for taking the time and reading this tutorial. In my next blog post, I will cover how to integrate 3scale by Red Hat with PingFederate using OpenID Connect.</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;linkname=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;linkname=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;linkname=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;linkname=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;linkname=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;linkname=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;linkname=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;linkname=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2F3scale-red-hat-integration-forgerock-using-openid-connect%2F&amp;title=3Scale%20by%20Red%20Hat%20Integration%20with%20ForgeRock%20using%20OpenID%20Connect" data-a2a-url="https://developers.redhat.com/blog/2018/03/12/3scale-red-hat-integration-forgerock-using-openid-connect/" data-a2a-title="3Scale by Red Hat Integration with ForgeRock using OpenID Connect"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/12/3scale-red-hat-integration-forgerock-using-openid-connect/">3Scale by Red Hat Integration with ForgeRock using OpenID Connect</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/12/3scale-red-hat-integration-forgerock-using-openid-connect/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">459397</post-id>    </item>
+        <item>
+        <title>Announcing: Node.js General Availability in Red Hat OpenShift Application Runtimes</title>
+        <link>https://developers.redhat.com/blog/2018/03/12/rhoar-nodejs-annoucement/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/12/rhoar-nodejs-annoucement/#respond</comments>
+        <pubDate>Mon, 12 Mar 2018 11:55:35 +0000</pubDate>
+        <dc:creator><![CDATA[James Falkner]]></dc:creator>
+                <category><![CDATA[Announcement]]></category>
+        <category><![CDATA[Containers]]></category>
+        <category><![CDATA[JavaScript]]></category>
+        <category><![CDATA[Microservices]]></category>
+        <category><![CDATA[Modern App Dev]]></category>
+        <category><![CDATA[Node.js]]></category>
+        <category><![CDATA[containers]]></category>
+        <category><![CDATA[Javascript]]></category>
+        <category><![CDATA[microservices]]></category>
+        <category><![CDATA[OpenShift Container Platform]]></category>
+        <category><![CDATA[Red Hat OpenShift]]></category>
+        <category><![CDATA[Red Hat OpenShift Application Runtimes]]></category>
+        <category><![CDATA[RHOAR]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=464817</guid>
+        <description><![CDATA[<p>Summary Today Red Hat is making Node.js generally available to Red Hat customers through a subscription to Red Hat OpenShift Application Runtimes (RHOAR). RHOAR provides application developers with a variety of application runtimes running on the OpenShift Container Platform. Node.js is based on the V8 JavaScript engine and allows you to write server-side JavaScript applications. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/12/rhoar-nodejs-annoucement/">Announcing: Node.js General Availability in Red Hat OpenShift Application Runtimes</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<div style="float: right;"><img class="aligncenter" src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/nodejs-new-pantone-black-300x184.png" alt="Node.js Foundation Logo" width="200" height="184" /></div>
+<h2>Summary</h2>
+<p>Today Red Hat is making Node.js generally available to Red Hat customers through a subscription to <a href="http://developers.redhat.com/rhoar">Red Hat OpenShift Application Runtimes</a> (RHOAR). RHOAR provides application developers with a variety of application runtimes running on the <a href="https://www.openshift.com/">OpenShift Container Platform</a>.</p>
+<p>Node.js is based on the V8 JavaScript engine and allows you to write server-side JavaScript applications. Node.js joins the existing set of supported runtimes and offers developers an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.</p>
+<p><span id="more-464817"></span></p>
+<h2>What’s in the box?</h2>
+<p>This release features the Node.js core runtime version 8.9.4, npm 5.6.0 and the associated missions and boosters to support developers getting started with Node.js and launching projects.</p>
+<p>Note that the RHOAR Node.js base image allows you to develop a Node.js application for OpenShift using any of the community Node.js modules available through npm. Community <a href="https://npmjs.org/">npm</a> modules are not supported by Red Hat.</p>
+<h2>Launch into OpenShift</h2>
+<p><a href="https://developers.redhat.com/launch"><img class=" aligncenter  wp-image-464867 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/wizard2.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/wizard2.png" alt="Launcher Wizard Steps" width="803" height="108" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/wizard2.png 1018w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/wizard2-300x40.png 300w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/wizard2-768x103.png 768w" sizes="(max-width: 803px) 100vw, 803px" /></a>Using <a href="https://developers.redhat.com/launch">developers.redhat.com/launch</a> you can immediately create and deploy a Node.js application directly to <a href="http://openshift.com/">OpenShift Online</a> or to your own local OpenShift cluster. It provides a hassle-free way of creating example applications, called boosters, as well as an easy way to build and deploy those boosters to OpenShift.</p>
+<p>Boosters are available to showcase how developers can use Node.js to build fundamental building blocks of cloud-native applications and services, such as creating RESTful APIs, implementing health checks, externalizing configuration, or resiliency features like circuit breakers.</p>
+<h2>Accessing Node.js images from the Red Hat Container Catalog</h2>
+<p>The Node.js runtime is offered through the <a href="https://access.redhat.com/containers/">Red Hat Container Catalog</a>, in the form of a containerized OpenShift <a href="https://blog.openshift.com/create-s2i-builder-image/">S2I builder image</a> containing Node.js 8.9.4. It can either be pulled from the command line (using the oc command) or from the OpenShift Dashboard GUI interface. The following is one command you could use to pull the image to your local system for use with OpenShift:</p>
+<pre>oc import-image nodejs:8 --from=registry.access.redhat.com/rhoar-nodejs/nodejs-8 --confirm</pre>
+<p>Then, the following commands could be used to build and deploy an example Node.js application to Red Hat OpenShift:</p>
+<pre>oc new-app --name nodejs-example nodejs:8~https://github.com/openshift/nodejs-ex
+oc expose svc/nodejs-example</pre>
+<p>Red Hat Customers using these distributions will be able to keep current with the latest updates, security advisories, knowing when and why containers are updated, and remaining up-to-date on the latest available tagged image.</p>
+<h2>Documentation</h2>
+<p>The RHOAR team has been continuously adding and improving on the official documentation for Node.js. This includes updates in the <a href="https://access.redhat.com/documentation/en-us/red_hat_openshift_application_runtimes/1/html/red_hat_openshift_application_runtimes_release_notes/">Release Notes</a>, <a href="https://access.redhat.com/documentation/en-us/red_hat_openshift_application_runtimes/1/html/getting_started_with_red_hat_openshift_application_runtimes/">Getting Started Guide,</a> and the new <a href="https://access.redhat.com/documentation/en-us/red_hat_openshift_application_runtimes/1/html-single/node.js_runtime_guide/">Node.js Runtime Guide</a>.</p>
+<h2>Developer Interactive Learning Scenarios</h2>
+<p>These <a href="https://learn.openshift.com/">self-paced scenarios</a> provide you with a pre-configured OpenShift instance, accessible from your browser without any downloads or configuration. Use it to <a href="https://learn.openshift.com/middleware/rhoar-getting-started-nodejs/">experiment with Node.js</a>, or learn about other technologies within RHOAR and see how its helps solve real-world problems.</p>
+<p><a href="https://learn.openshift.com/middleware/rhoar-getting-started-nodejs/"><img class="  aligncenter   wp-image-464877 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/katacoda-node-1024x604.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/katacoda-node-1024x604.png" alt="Node.js Interactive Learning Scenario Screenshot" width="640" height="378" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/katacoda-node-1024x604.png 1024w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/katacoda-node-300x177.png 300w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/katacoda-node-768x453.png 768w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/katacoda-node.png 1180w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<h2>Getting Support</h2>
+<p>Support for Node.js is available to Red Hat customers through a subscription to Red Hat OpenShift Application Runtimes. Contact your local Red Hat representative or <a href="https://www.redhat.com/en/about/contact/sales">Red Hat Sales</a> for details on how you can enjoy world-class support offered from Red Hat and its worldwide partner network.</p>
+<p>Moving forward, customers can expect support for Node.js and other RHOAR runtimes according to the <a href="https://access.redhat.com/support/policy/updates/jboss_notes/">Red Hat Product Update and Support Lifecycle</a>.</p>
+<h2>What’s Next?</h2>
+<p>The RHOAR team is continually taking feedback from customers and the wider community of open source developers, as well as tracking the <a href="https://github.com/nodejs/Release">upstream Node.js releases.</a> They are working to make updates to the RHOAR runtimes based on that feedback, as well as considering support for additional modules from Red Hat and the very large Node.js ecosystem.</p>
+<h2>Kudos!</h2>
+<p>This release was produced by Red Hat’s RHOAR engineering team, and involved many hours of development, testing, writing documentation, testing some more, and working with the wider Red Hat community of customers, partners, and Node.js developers to incorporate contributions, both big and small. We are glad you have chosen to use it, and hope that it meets or exceeds your expectations!</p>
+<h2>More Resources</h2>
+<ul>
+<li><a href="http://developers.redhat.com/rhoar">Red Hat OpenShift Application Runtimes Developer home page</a></li>
+<li><a href="https://developers.redhat.com/blog/2015/10/07/red-hat-joins-node-js-foundation/">Red Hat joins the Node.js Foundation</a></li>
+<li><a href="https://lanceball.com/slides/rhoar-shootout/">RHOAR Shootout &#8211; Node.js</a></li>
+<li><a href="http://lanceball.com/riviera-dev-2017/">Node.js on OpenShift for Your Enterprise</a></li>
+<li><a href="https://lanceball.com/words/2017/01/05/protect-your-node-js-rest-clients-with-circuit-breakers">Protect Your Node.js REST Clients with Circuit Breakers</a></li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;linkname=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;linkname=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;linkname=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;linkname=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;linkname=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;linkname=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;linkname=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;linkname=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F12%2Frhoar-nodejs-annoucement%2F&amp;title=Announcing%3A%20Node.js%20General%20Availability%20in%20Red%20Hat%20OpenShift%20Application%20Runtimes" data-a2a-url="https://developers.redhat.com/blog/2018/03/12/rhoar-nodejs-annoucement/" data-a2a-title="Announcing: Node.js General Availability in Red Hat OpenShift Application Runtimes"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/12/rhoar-nodejs-annoucement/">Announcing: Node.js General Availability in Red Hat OpenShift Application Runtimes</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/12/rhoar-nodejs-annoucement/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">464817</post-id>    </item>
+        <item>
+        <title>3scale ActiveDocs and OAuth 2.0</title>
+        <link>https://developers.redhat.com/blog/2018/03/09/3scale-activedocs-oauth-2-0/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/09/3scale-activedocs-oauth-2-0/#respond</comments>
+        <pubDate>Fri, 09 Mar 2018 11:55:32 +0000</pubDate>
+        <dc:creator><![CDATA[kevin price]]></dc:creator>
+                <category><![CDATA[Developer Tools]]></category>
+        <category><![CDATA[JavaScript]]></category>
+        <category><![CDATA[Red Hat 3scale API Management]]></category>
+        <category><![CDATA[Red Hat SSO]]></category>
+        <category><![CDATA[3scale]]></category>
+        <category><![CDATA[3scale activedocs]]></category>
+        <category><![CDATA[Javascript]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=447207</guid>
+        <description><![CDATA[<p>How to secure your API documentation with Red Hat Single Sign-On? This guide is designed to help you integrate your Red Hat Single Sign-On server with the OpenAPI (OAI)-based ActiveDocs in your 3scale developer portal. Although it has only been implemented with this particular Identity &#38; Access Management solution (IAM), you could in theory make [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/09/3scale-activedocs-oauth-2-0/">3scale ActiveDocs and OAuth 2.0</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<h1 id="">How to secure your API documentation with Red Hat Single Sign-On?</h1>
+<p>This guide is designed to help you integrate your Red Hat Single Sign-On server with the OpenAPI (OAI)-based ActiveDocs in your 3scale developer portal. Although it has only been implemented with this particular Identity &amp; Access Management solution (IAM), you could in theory make some customizations where necessary to integrate with another OpenID Connect-based solution.</p>
+<p>This is the 1st part of a series of posts where each OAuth 2.0 flow will be covered separately. Here we start with the <strong>Authorization Code flow</strong>.</p>
+<p><img class=" alignnone size-full  wp-image-464467 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/img_5aa1e9c6388f9.gif"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/img_5aa1e9c6388f9.gif" alt="" /></p>
+<h1 id="whatisactivedocs">What is ActiveDocs?</h1>
+<p>ActiveDocs is the 3scale feature that is based on <a href="https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md">OAI 2.0</a> &amp; <a href="https://github.com/swagger-api/swagger-ui">SwaggerUI</a>. You can host any OAI compliant spec on 3scale &amp; publish it in the Developer Portal for your community&#8217;s reference &amp; testing. One of the great advantages of 3scale ActiveDocs is that it has its own proxy, which supports Cross-Origin Resource Sharing (CORS) &#8211; This is only applicable when using the SaaS platform. Perfect! No need to configure your own API to support CORS for this purpose.</p>
+<p>Additionally there are some <a href="https://access.redhat.com/documentation/en-us/red_hat_3scale/2.saas/html/api_documentation/create-activedocs-spec#useful_tools">custom 3scale fields</a> that you can use inside the OAI spec to expose the currently logged in user&#8217;s credentials for easy use. No copy-pasting of those multiple sets of credentials to files where you&#8217;re never going to remember them. The ActiveDocs feature doesn&#8217;t support OAuth 2.0 out-of-the-box. Therefore, this &#8220;how to&#8221; is intended to provide a means of enabling an OAuth 2.0 flow on the documentation page exposing your API services.</p>
+<h1 id="prerequisites">Prerequisites</h1>
+<ul>
+<li>A Red Hat Single Sign-On server configured according to our <a href="https://access.redhat.com/articles/2798521#apicast-3x-support-4">Supported Configurations</a>. Create the realm as <a href="https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.1/html/server_administration_guide/admin_console">documented</a>.</li>
+<li>An HTTPS endpoint to access your server in the format: <code>https://{my-rhsso-server.com}/auth/realms/{realm-name}</code>.</li>
+<li>An OAI compliant spec with an <code>Authorization</code> header field for each operation that requires a token to call the API.</li>
+</ul>
+<h1 id="whatwillbecovered">What Will We Cover?</h1>
+<ul>
+<li>How to configure Red Hat Single Sign-On server and the test client.</li>
+<li>How to configure 3scale.</li>
+<li>Implementing the custom JavaScript client and <a href="http://shopify.github.io/liquid/">Liquid</a> to enable <strong>Authorization Code flow</strong>.</li>
+</ul>
+<h2 id="configureredhatsinglesignontestclient">Configure Red Hat Single Sign-On &amp; Test Client</h2>
+<p>Once you have configured the server and realm according to the documentation mentioned above, set up the test client following the below steps. You only need to use this client as a verification of the integration. If you are already using the <a href="https://access.redhat.com/documentation/en-us/red_hat_3scale/2.saas/html/api_authentication/rhsso">OpenID Connect integration,</a> then simply update an existing client according to the steps below. Otherwise, first create a client as described in <a href="https://access.redhat.com/documentation/en-us/red_hat_3scale/2.saas/html/developer_portal/authentication#rhsso">Configuring red Hat Single Sign-On 1.4.1</a> and then follow these 3 steps.</p>
+<h3 id="step1">Step 1</h3>
+<p>Add a <code>redirect_uri</code> equivalent to the developer portal domain, plus the path where the documentation is hosted. This value can also be a wildcard if the ActiveDocs specs are to be hosted on multiple pages in the portal.</p>
+<h3 id="step2">Step 2</h3>
+<p>Enable the <code>Standard Flow enabled</code> switch for the <strong>Authorization Code flow</strong>.</p>
+<h3 id="step3">Step 3</h3>
+<p>Add the developer portal domain as the <code>Web Origin</code> value. For example: <code>https://{account-name}.example.com</code>. This is necessary for the CORS requests to succeed for each client.</p>
+<h2 id="configure3scale">Configure 3scale</h2>
+<p>If you&#8217;re using the <a href="https://access.redhat.com/documentation/en-us/red_hat_3scale/2.saas/html/api_authentication/rhsso">OpenID Connect integration</a> then the 3scale platform manages the synchronization of clients into your Red Hat Single Sign-On server for you (in which case you can skip step 1). If you are also using the <a href="https://access.redhat.com/documentation/en-us/red_hat_3scale/2.saas/html/developer_portal/authentication#enabling_and_disabling_authentication_via_red_hat_single_sign_on_7_0">Red Hat Single Sign-On developer portal integration,</a> then skip step 2 as well. Otherwise, follow all the steps below.</p>
+<h3 id="step1-1">Step 1</h3>
+<p>Create a client in 3scale via the API if you have already created the client in your Red Hat Single Sign-On server. Use the credentials (<code>client_id</code> &amp; <code>client_secret</code>) in the example request as shown here:</p>
+<pre><code>curl -v  -X POST "https://{account-name}-admin.3scale.net/admin/api/accounts/{account_id}/applications.xml"\ 
+-d 'access_token={access_token}\
+&amp;plan_id={application_plan_id}\
+&amp;name={application_name}\
+&amp;description={application_description}\
+&amp;application_id={client_id}\
+&amp;application_key={client_secret}'
+</code></pre>
+<p>This is probably a bit quicker and easier for testing purposes. However, in production it makes much more sense that the synchronization is done from 3scale to Red Hat Single Sign-On, as these are the client and token masters respectively. The clients can be created via <a href="https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.0/html/securing_applications_and_services_guide/client_registration#example_using_curl_2">API in Red Hat Single Sign-On</a> also.</p>
+<h3 id="step2-1">Step 2</h3>
+<p>Add the Red Hat Single Sign-On URL to your developer portal SSO integrations if you haven&#8217;t already done so. Follow the <a href="https://access.redhat.com/documentation/en-us/red_hat_3scale/2.saas/html/developer_portal/authentication#configuring_3scale">Configuring 3scale</a> section to do this. This will then be reused in the Liquid templates in the developer portal.</p>
+<p><strong id="hardcode-rhsso-url">Note:</strong> This would enable the SSO integration for the developer portal. If you do not want this, you can hardcode the URL in the <a href="https://github.com/kevprice83/activedocs-keycloak-client/blob/master/keycloak-client.js#L8" target="_blank" rel="noopener">keycloak-client partial</a>.</p>
+<h3 id="step3-1">Step 3</h3>
+<p>Import the OAI spec using the ActiveDocs API. The easiest way to manage all your different API specifications is to host them directly on the 3scale platform. An example API call is shown here to import a spec. You can prepend the body of the <a href="https://www.json.org/">JSON</a> spec with the following query parameters:</p>
+<pre><code>access_token={access_token}&amp;name={spec_friendly_name}&amp;system_name={spec_system_name}&amp;body={
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "Echo API",
+    "description": "A sample echo APIII"
+  },
+  "securityDefinitions": {
+  .....
+}
+</code></pre>
+<p>You can pass the JSON file as a parameter with the <strong>cURL</strong> request as so:</p>
+<pre><code>curl -v  -X POST "https://{account-name}-admin.3scale.net/admin/api/active_docs.json" -d @/path/to/file.json
+</code></pre>
+<p>Ensure that the spec has the following field definition in the parameters array for each operation that requires a token to call the API endpoint:</p>
+<pre><code>"parameters": [
+          {
+            "type": "string",
+            "description": "Authorization header\n(format: Bearer [access_token])",
+            "name": "Authorization",
+            "in": "header",
+            "required": true
+          },
+</code></pre>
+<h2 id="addthejavascriptclientcustomliquid">Add the JavaScript Client &amp; Custom Liquid</h2>
+<p>First let&#8217;s add the <a href="https://github.com/kevprice83/activedocs-keycloak-client/blob/master/cookie.js">cookie.js</a> module to the 3scale CMS. In the <em>Developer Portal</em> tab of the admin portal you can choose <em>&#8220;New Page&#8221;</em> or <em>&#8220;New File&#8221;</em> from the dropdown button. Configure the relevant attributes whether you add it as a file or page. Choose a <strong>Title</strong> that is appropriate; <strong>Section</strong> should be <em>javascripts;</em> <strong>Path</strong> should be the format <em>/javascripts/cookie.js;</em> <strong>Layout</strong> must be empty; and finally, the <strong>Content Type</strong> set to <em>JavaScript</em>.</p>
+<p>Upload the partials for the <a href="https://github.com/kevprice83/activedocs-keycloak-client/blob/master/widget.js">oauth-widget</a> &amp; the <a href="https://github.com/kevprice83/activedocs-keycloak-client/blob/master/auth.js">keycloak-client</a> to the CMS. The name you choose here will be reused in the main template in the <code>{% include %}</code> Liquid tag. From the same dropdown button choose <em>&#8220;New Partial&#8221;</em>. Now upload the changes required to your documentation template. You can see the necessary Liquid tags in the <a href="https://github.com/kevprice83/activedocs-keycloak-client/blob/master/docs.html.liquid">example docs template</a>. This will work with both <strong>SwaggerUI 2.1.3</strong> &amp; <strong>2.2.10</strong>. In the older version the Liquid tag to include the ActiveDocs spec would have looked something like: <code>{% active_docs version: '2.0', services: 'spec_system_name' %}</code> the <code>spec_system_name</code> is what you passed in the previous <strong>cURL</strong> request when importing to 3scale. If you want to upgrade to the latest version supported in the 3scale platform, then follow the <a href="https://access.redhat.com/documentation/en-us/red_hat_3scale/2.saas/html/api_documentation/activedocs-upgrade-22">upgrade tutorial</a>. You should reference the OAuth widget partial in the first <code>{% include %}</code> and the Keycloak client last.</p>
+<p>Everything in the JavaScript and Liquid is fully dynamic, therefore all the account specific attributes like developer portal domain, documentation page URL, application <code>client_id</code>, <code>client_secret</code> etc., do not need to be hardcoded anywhere.<a href="#hardcode-rhsso-url">*</a></p>
+<h3 id="howtheclientworks">How the Client Works</h3>
+<p>The OAuth widget checks if the current page contains a <code>state</code> parameter in the URL and renders the appropriate button to <strong>authorize</strong> or <strong>get_token:</strong></p>
+<p><a href="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-34-59.png"><img class="  alignnone size-full   wp-image-461707 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-34-59.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-34-59.png" alt="Authorize button for first leg of the flow" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-34-59.png 862w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-34-59-300x224.png 300w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-34-59-768x573.png 768w" sizes="(max-width: 862px) 100vw, 862px" /></a></p>
+<p>A dropdown of applications becomes available for the logged in user to retrieve a token. The application name and service name are rendered, but this is customizable to meet your needs. The <strong>authorize</strong> will execute the cookie.js module and it stores a <code>state</code> value in the cookies with a default expiration of 60 seconds. You can configure this expiration time as you wish. The browser then redirects the user to the login page, and upon successful authorization, a success message will be displayed. After the browser has redirected the user to the developer portal a <strong>get_token</strong> button will be rendered:</p>
+<p><a href="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48.png"><img class="  alignnone size-full   wp-image-461717 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48.png" alt="Get token button for last leg leg of the flow" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48.png 632w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48-150x150.png 150w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48-298x300.png 298w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48-32x32.png 32w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48-50x50.png 50w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48-64x64.png 64w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48-96x96.png 96w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-36-48-128x128.png 128w" sizes="(max-width: 632px) 100vw, 632px" /></a></p>
+<p>You must select the same application for the next leg of the flow, which will result in a token returned to the browser if successful. The Red Hat Single Sign-On server returns the state parameter during the <em>callback</em>. The client validates this against the original value that it stored in the cookie:</p>
+<p><a href="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-37-59.png"><img class="  alignnone size-full   wp-image-461727 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-37-59.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-37-59.png" alt="Token is auto-populated into each Authorization field in the documentation" srcset="https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-37-59.png 842w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-37-59-300x156.png 300w, https://developers.redhat.com/blog/wp-content/uploads/2018/03/Screenshot-from-2018-03-01-12-37-59-768x400.png 768w" sizes="(max-width: 842px) 100vw, 842px" /></a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;linkname=3scale%20ActiveDocs%20and%20OAuth%202.0" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;linkname=3scale%20ActiveDocs%20and%20OAuth%202.0" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;linkname=3scale%20ActiveDocs%20and%20OAuth%202.0" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;linkname=3scale%20ActiveDocs%20and%20OAuth%202.0" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;linkname=3scale%20ActiveDocs%20and%20OAuth%202.0" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;linkname=3scale%20ActiveDocs%20and%20OAuth%202.0" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;linkname=3scale%20ActiveDocs%20and%20OAuth%202.0" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;linkname=3scale%20ActiveDocs%20and%20OAuth%202.0" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F09%2F3scale-activedocs-oauth-2-0%2F&amp;title=3scale%20ActiveDocs%20and%20OAuth%202.0" data-a2a-url="https://developers.redhat.com/blog/2018/03/09/3scale-activedocs-oauth-2-0/" data-a2a-title="3scale ActiveDocs and OAuth 2.0"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/09/3scale-activedocs-oauth-2-0/">3scale ActiveDocs and OAuth 2.0</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/09/3scale-activedocs-oauth-2-0/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">447207</post-id>    </item>
+        <item>
+        <title>Get Started on Process Driven Development with JBoss BPM</title>
+        <link>https://developers.redhat.com/blog/2018/03/08/ebook-jboss-bpm-process-driven-development/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/08/ebook-jboss-bpm-process-driven-development/#respond</comments>
+        <pubDate>Thu, 08 Mar 2018 21:25:40 +0000</pubDate>
+        <dc:creator><![CDATA[Eric D. Schabell]]></dc:creator>
+                <category><![CDATA[Announcement]]></category>
+        <category><![CDATA[Cloud]]></category>
+        <category><![CDATA[Developer Tools]]></category>
+        <category><![CDATA[Java]]></category>
+        <category><![CDATA[JBoss BPM Suite]]></category>
+        <category><![CDATA[JBoss BRMS]]></category>
+        <category><![CDATA[Products]]></category>
+        <category><![CDATA[book]]></category>
+        <category><![CDATA[BPM]]></category>
+        <category><![CDATA[bpm suite]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=463747</guid>
+        <description><![CDATA[<p>Are you interested in an introduction to the concepts of process management (BPM)? Do you want to learn how your business can leverage process driven application delivery? Are you looking for an easy to understand guide to mastering Red Hat JBoss BPM Suite tooling? Do you need a step-by-step introduction to setting up JBoss BPM Suite including [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/08/ebook-jboss-bpm-process-driven-development/">Get Started on Process Driven Development with JBoss BPM</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<p>Are you interested in an introduction to the concepts of process management (BPM)?</p>
+<p>Do you want to learn how your business can leverage process driven application delivery?</p>
+<p>Are you looking for an easy to understand <a href="http://bit.ly/effective-jboss-bpm">guide to mastering Red Hat JBoss BPM Suite</a> tooling?</p>
+<p>Do you need a step-by-step introduction to setting up JBoss BPM Suite including coverage of practical and important topics like data modeling, designing business rules and processes, detailed real world examples, and tips for testing?</p>
+<p>For the last few years I&#8217;ve been working on putting years of experience with JBoss BPM Suite and community projects Drools and jBPM together into one easy to understand book.</p>
+<p><span id="more-463747"></span></p>
+<p>In 2017, Red Hat put the <a href="https://www.redhat.com/en/resources/jboss-in-action-book-chapter">first chapter online for free,</a> and literally thousands downloaded it starting their journey on the road to delivering process driven applications with JBoss BPM Suite. Many of you have reached out over the years to ask about the completion of this book, and where you can get it.</p>
+<p>The good news is that the book is available and Red Hat is providing ebook downloads for free!</p>
+<p>Let&#8217;s look at how this works, shall we?</p>
+<hr class="more" />
+<h3><a href="http://bit.ly/effective-jboss-bpm">Effective Business Process Management with JBoss BPM</a></h3>
+<p><a href="http://bit.ly/effective-jboss-bpm"><img class="alignright" src="https://1.bp.blogspot.com/-Vb-Vld_zV6g/WqA_sklWexI/AAAAAAAAr60/yF_A-WE-sQkDLpAKrWQlGZraKYT2g0vCwCEwYBhgL/s320/erics_bpm_book.png" width="320" height="167" border="0" /></a>While writing this book I&#8217;ve tried to share both the process and the chapters as teasers. I&#8217;ve posted an <a href="http://www.schabell.org/2016/07/introducing-business-process-management-with-jboss-bpm.html">excerpt introducing business process management with JBoss BPM</a>, an <a href="https://medium.com/@eschabell/introducing-business-process-management-5deb7b7b9993">introduction to the book on medium.com</a>, and an excerpt from the chapter on data modeling.</p>
+<p>If you want to browse the articles and explore some of these excerpts, <a href="http://www.schabell.org/search/label/Publishing">check out the publishing feed</a> on my site.</p>
+<p>Now for the best part, the Red Hat Developers Program is hosting the <a href="http://bit.ly/effective-jboss-bpm">option for you to download</a> a free ebook copy!</p>
+<p>I would like to thank everyone over the years that have helped my knowledge grow around JBoss, JBoss BPM, writing, publishing, and managing this final free ebook to help everyone learn how to create and deploy process driving applications using JBoss BPM Suite.</p>
+<p>Feel free to give me feedback through <a href="https://twitter.com/ericschabell">my social channels</a> or on <a href="http://www.schabell.org/p/contact.html">my sites contact form</a>. I am always happy to chat about process driven applications and anything JBoss!</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;linkname=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;linkname=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;linkname=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;linkname=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;linkname=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;linkname=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;linkname=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;linkname=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Febook-jboss-bpm-process-driven-development%2F&amp;title=Get%20Started%20on%20Process%20Driven%20Development%20with%20JBoss%20BPM" data-a2a-url="https://developers.redhat.com/blog/2018/03/08/ebook-jboss-bpm-process-driven-development/" data-a2a-title="Get Started on Process Driven Development with JBoss BPM"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/08/ebook-jboss-bpm-process-driven-development/">Get Started on Process Driven Development with JBoss BPM</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/08/ebook-jboss-bpm-process-driven-development/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">463747</post-id>    </item>
+        <item>
+        <title>MicroProfile Fault Tolerance in WildFly Swarm</title>
+        <link>https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/#respond</comments>
+        <pubDate>Thu, 08 Mar 2018 11:55:00 +0000</pubDate>
+        <dc:creator><![CDATA[Antoine Sabot-Durand]]></dc:creator>
+                <category><![CDATA[Java]]></category>
+        <category><![CDATA[Microservices]]></category>
+        <category><![CDATA[Eclipse]]></category>
+        <category><![CDATA[fault tolerance]]></category>
+        <category><![CDATA[microprlfile]]></category>
+        <category><![CDATA[microservices]]></category>
+        <category><![CDATA[wildfly swarm]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=456967</guid>
+        <description><![CDATA[<p>Every developer has the goal of building the most resilient application possible. Due to the distributed nature of microservices, resiliency and handling failures gracefully is mandatory. The Java ecosystem has some nice frameworks for fault tolerance, such as Hystrix or Failsafe. However, none of these provide a standard API, so using them means your application will [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/">MicroProfile Fault Tolerance in WildFly Swarm</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<p>Every developer has the goal of building the most resilient application possible. Due to the distributed nature of microservices, resiliency and handling failures gracefully is mandatory. The Java ecosystem has some nice frameworks for fault tolerance, such as <a href="https://github.com/Netflix/Hystrix" target="_blank" rel="noopener">Hystrix</a> or <a href="https://github.com/jhalterman/failsafe" target="_blank" rel="noopener">Failsafe</a>. However, none of these provide a standard API, so using them means your application will be tightly coupled to that framework. The primary motivation for the MicroProfile specifications is to provide standard APIs that eliminates the tight coupling and improves deployment flexibility. This article will describe the main features of the MicroProfile Fault Tolerance specification, and then demonstrate how it was implemented in <a href="http://wildfly-swarm.io/">WildFly Swarm</a>, the Red Hat MicroProfile implementation.</p>
+<p><span id="more-456967"></span></p>
+<h2>About Eclipse MicroProfile Fault Tolerance</h2>
+<p><a href="https://github.com/eclipse/microprofile-fault-tolerance" target="_blank" rel="noopener">Eclipse MicroProfile Fault Tolerance</a> is one of the <a href="https://microprofile.io" target="_blank" rel="noopener">Eclipse MicroProfile</a> specifications that provides a standard and easy way to add resiliency to your microservice or other Java EE development.<br />
+Note: see Jeff Mesnil&#8217;s article on <a href="https://developers.redhat.com/blog/2018/03/05/cloud-native-microprofile-config-healthcheck-openshift/">Develop Cloud-native Applications with MicroProfile</a></p>
+<p>Like most MicroProfile specifications, Fault Tolerance is based on Contexts and Dependency Injection (CDI) and more precisely on the CDI interceptor implementation. It also relies on the MicroProfile Config specification to allow external configuration for Fault Tolerance policies.</p>
+<p>The main idea of the spec is to decouple business logic from Fault Tolerance boilerplate code. To achieve that, the spec defines interceptor binding annotations to apply Fault Tolerance policies on a method execution or on a class (in that case all class methods have the same policy).</p>
+<p>Policies included in the Fault Tolerance specification are the following:</p>
+<ul>
+<li><b>Timeout:</b> applied with <code>@Timeout</code> annotation. It adds a timeout to the current operation.</li>
+<li><b>Retry:</b> applied with <code>@Retry</code> annotation. It adds retry behavior and allows its configuration on the current operation.</li>
+<li><b>Fallback:</b> applied with <code>@Fallback</code> annotation. It defines the code to execute, should the current operation fail.</li>
+<li><b>Bulkhead:</b> applied with <code>@Bulkhead</code> annotation. It isolates failures in the current operation to preserve execution of other operations.</li>
+<li><b>Circuit Breaker:</b> applied with <code>@CircuitBreaker</code> annotation. It provides an automatic fast failing execution to prevent overloading the system.</li>
+<li><b>Asynchronous:</b> applied with <code>@Asynchronous</code> annotation. It makes the current operation asynchronous (i.e. code will be invoked asynchronously).</li>
+</ul>
+<p>Applying one or more of these policies is as easy as adding the required annotations on the method (or the class) for which you&#8217;d like to have these policies enabled. So, using Fault Tolerance is rather simple. But this simplicity doesn&#8217;t prevent flexibility thanks to all the configuration parameters available for each policy.</p>
+<p>Right now the following vendors are providing an implementation for the specification.</p>
+<ul>
+<li>Red Hat in WildFly Swarm</li>
+<li>IBM in WebSphere Liberty</li>
+<li>Payara in Payara Server</li>
+<li>Apache Safeguard for Hammock and TomEE</li>
+<li>KumuluzEE for KumuluzEE framework</li>
+</ul>
+<p>In this post we will focus on the <a href="http://wildfly-swarm.io/">WildFly Swarm</a> implementation and usage.</p>
+<h2>Using MicroProfile Fault Tolerance in WildFly Swarm</h2>
+<p><a href="https://developers.redhat.com/blog/wp-content/uploads/2016/06/swarm_logo_final.png"><img class=" alignright  wp-image-423918 " data-add-featherlight="https://developers.redhat.com/blog/wp-content/uploads/2016/06/swarm_logo_final.png"  src="https://developers.redhat.com/blog/wp-content/uploads/2016/06/swarm_logo_final-300x83.png" alt="" width="300" height="83" srcset="https://developers.redhat.com/blog/wp-content/uploads/2016/06/swarm_logo_final-300x83.png 300w, https://developers.redhat.com/blog/wp-content/uploads/2016/06/swarm_logo_final-768x211.png 768w, https://developers.redhat.com/blog/wp-content/uploads/2016/06/swarm_logo_final.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>MicroProfile Fault Tolerance implementation included in WildFly Swarm is based on <a href="https://github.com/Netflix/Hystrix">Hystrix</a> Framework developed by Netflix.</p>
+<p>To add Fault Tolerance to your WildFly Swarm project, you only have to add the Fault Tolerance fraction to your project like this:</p>
+<pre class="brush: xml; title: ; notranslate">
+&lt;dependency&gt;
+   &lt;groupId&gt;org.wildfly.swarm&lt;/groupId&gt;
+   &lt;artifactId&gt;microprofile-fault-tolerance&lt;/artifactId&gt;
+&lt;/dependency&gt;
+</pre>
+<p>No need to add other fractions, the Fault Tolerance fraction will add all its dependencies to the deployment.</p>
+<h2>MicroProfile Fault Tolerance in Action</h2>
+<p>As we saw above, using Fault Tolerance is quite straightforward. The spec API provides a set of annotations that you have to apply on a class or method to enforce Fault Tolerance policies. This said, you have to keep in mind that these annotations are interceptors binding and thus are only usable on CDI beans, so be careful to define your class as CDI beans before applying Fault Tolerance annotations on them or their methods.</p>
+<p>In the following sections you&#8217;ll find usage examples for each Fault Tolerance annotation.</p>
+<h3>@Asynchronous</h3>
+<p>Making an operation asynchronous is as simple as:</p>
+<pre class="brush: java; title: ; notranslate">
+
+@Asynchronous
+public Future&lt;Connection&gt; service() throws InterruptedException {
+    Connection conn = new Connection() {
+      {
+        Thread.sleep(1000);
+      }
+    @Override
+    public String getData() {
+      return &quot;service DATA&quot;;
+    }
+  };
+  return CompletableFuture.completedFuture(conn);
+}
+</pre>
+<p>The only constraint is to have the <code>@Asynchronous</code> method returning a <code>Future</code> otherwise the implementation should throw an exception.</p>
+<h3>@Retry</h3>
+<p>Should the operation fail you can apply the Retry policy to have the operation invoked again. The <code>@Retry</code> annotation can be used on class or method level like this:</p>
+<pre class="brush: java; title: ; notranslate">
+
+@Retry(maxRetries = 5, maxDuration= 1000, retryOn = {IOException.class})
+public void operationToRetry() {
+    ...
+}
+
+</pre>
+<p>In the example above, the operation should be retried a maximum 5 times only on <code>IOException</code>. If the total duration of all retries lasts more than 1000 ms the operation will be aborted.</p>
+<h3>@Fallback</h3>
+<p>This annotation can only be applied on a method, annotating a class will give an unexpected result:</p>
+<pre class="brush: java; title: ; notranslate">
+
+@Retry(maxRetries = 2)
+@Fallback(StringFallbackHandler.class)
+public String shouldFallback() {
+     ...
+}
+
+</pre>
+<p>Fallback method is called after the number of retries is reached. In the example above, the method will be retried twice in case of an error, and then the fallback will be used to invoke another piece of code.</p>
+<p>Fallback code can be defined by class implementing FallbackHandler interface (see the code above), or by a method in the current bean.</p>
+<h3>@Timeout</h3>
+<p>This annotation could be applied on class or method to make sure that an operation doesn&#8217;t last forever.</p>
+<pre class="brush: java; title: ; notranslate">
+@Timeout(200) 
+public void operationCouldTimeout() {
+    ...
+}
+</pre>
+<p>In the example above the operation will be stopped should it last more than 200 ms.</p>
+<h3>@CircuitBreaker</h3>
+<p>The annotation can be applied on class or method. The circuit breaker pattern was introduced by <a href="https://martinfowler.com/bliki/CircuitBreaker.html">Martin Fowler</a> to protect execution of an operation by making it fail fast in case of a dysfunction.</p>
+<pre class="brush: java; title: ; notranslate">
+@CircuitBreaker(requestVolumeThreshold = 4, failureRatio=0.75, delay = 1000)
+public void operationCouldBeShortCircuited(){
+  ...
+} 
+</pre>
+<p>In the above example, the method applies the CircuitBreaker policy. The circuit will be opened if 3 (4 x 0.75) failures occur among the rolling window of 4 consecutive invocations. The circuit will stay open for 1000 ms and then be back to half open. After a successful invocation, the circuit will be back to closed again.</p>
+<h3>@Bulkhead</h3>
+<p>This annotation can also be applied on class or method to enforce the Bulkhead policy. This pattern isolates failures in the current operation to preserve execution of other operations. The implementation does this by limiting the number of concurrent invocations on a given method.</p>
+<pre class="brush: java; title: ; notranslate">
+@Bulkhead(4)
+public void bulkheadedOperation() {
+       ...
+}
+</pre>
+<p>In the code above this method only supports 4 invocations at the same time.<br />
+Bulkhead can also be used with <code>@Asynchronous</code> to limit the thread number in an asynchronous operation.</p>
+<h2>Configure Fault Tolerance with MP config</h2>
+<p>As we saw in the previous sections, Fault Tolerance policies are applied by using annotations. For most use cases this is enough, but for others this approach may be not be satisfactory because configuration is done at the source code level.</p>
+<p>That&#8217;s the reason MicroProfile Fault Tolerance annotations&#8217; parameters can be overridden using the MicroProfile config.</p>
+<p>The annotation parameters can be overwritten via config properties in the naming convention of: <strong>&lt;classname&gt;/&lt;methodname&gt;/&lt;annotation&gt;/&lt;parameter&gt;</strong>.</p>
+<p>To override the <code>maxDuration</code> for <code>@Retry</code> on the <code>doSomething</code> method in <code>MyService</code> class, set the config property like this:</p>
+<p><code>com.redhat.microservice.MyService/doSomething/Retry/maxDuration=3000</code></p>
+<p>If the parameters for a particular annotation needs to be configured with the same value for a particular class, use the config property: <strong>&lt;classname&gt;/&lt;annotation&gt;/&lt;parameter&gt;</strong> for configuration.</p>
+<p>For instance, use the following config property to override all <code>maxRetries</code> for the <code>@Retry</code> specified on the class <code>MyService</code> to 100.</p>
+<p><code>com.redhat.microservice.MyService/Retry/maxRetries=100</code></p>
+<p>Sometimes, the parameters need to be configured with the same value for the whole micro service (i.e. all occurrences of the annotation in the deployment).</p>
+<p>In this circumstance, the config property <strong>&lt;annotation&gt;/&lt;parameter&gt;</strong> overrides the corresponding parameter value for the specified annotation. For instance, in order to override all the <code>maxRetries</code> for all the <code>@Retry</code> to be 30, specify the following config property:</p>
+<p><code>Retry/maxRetries=30</code></p>
+<h2>Conclusion</h2>
+<p>This post is only an overview of the specification. To learn everything about it, you can find the MicroProfile Fault Tolerance 1.0 specification document <a href="https://developers.redhat.com/blog/wp-content/uploads/2017/11/microprofile-fault-tolerance-spec.pdf">here</a>. Another way to learn how the spec works is by checking its <a href="https://github.com/eclipse/microprofile-fault-tolerance/tree/master/tck">TCK</a> (Technology Compatibility Kit).</p>
+<p>The specification is rather young, and yet it already has 5 implementations. If you&#8217;d like to get involved in the spec, you can start by completing an <a href="https://github.com/eclipse/microprofile-fault-tolerance/issues" target="_blank" rel="noopener">issue</a> on the MicroProfile Fault Tolerance repo, or just start working on one of them.</p>
+<p>You can also help us to enhance <a href="https://github.com/wildfly-swarm/wildfly-swarm/tree/master/fractions/microprofile/microprofile-fault-tolerance">Fault Tolerance implementation</a> (or any other MicroProfile implementation) in the WildFly Swarm repo, or report a bug on our <a href="https://issues.jboss.org/issues/?jql=project%20%3D%20SWARM%20AND%20status%20in%20(Open%2C%20Reopened)">Jira server.</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;linkname=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;linkname=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;linkname=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;linkname=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;linkname=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;linkname=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;linkname=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;linkname=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F08%2Fmicroprofile-fault-tolerance-wildfly-swarm%2F&amp;title=MicroProfile%20Fault%20Tolerance%20in%20WildFly%20Swarm" data-a2a-url="https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/" data-a2a-title="MicroProfile Fault Tolerance in WildFly Swarm"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/">MicroProfile Fault Tolerance in WildFly Swarm</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">456967</post-id>    </item>
+        <item>
+        <title>Introducing conu &#8211; Scripting Containers Made Easier</title>
+        <link>https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/</link>
+        <comments>https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/#respond</comments>
+        <pubDate>Wed, 07 Mar 2018 17:15:46 +0000</pubDate>
+        <dc:creator><![CDATA[Dominika Hoďovská]]></dc:creator>
+                <category><![CDATA[Containers]]></category>
+        <category><![CDATA[Python]]></category>
+        <category><![CDATA[automation]]></category>
+        <category><![CDATA[containers]]></category>
+        <category><![CDATA[Containers-Testing-Framework]]></category>
+        <category><![CDATA[conu]]></category>
+        <category><![CDATA[Docker]]></category>
+        <category><![CDATA[python]]></category>
+
+        <guid isPermaLink="false">https://developers.redhat.com/blog/?p=458857</guid>
+        <description><![CDATA[<p>There has been a need for a simple, easy-to-use handler for writing tests and other code around containers that would implement helpful methods and utilities. For this we introduce conu, a low-level Python library. This project has been driven from the start by the requirements of container maintainers and testers. In addition to basic image [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/">Introducing conu &#8211; Scripting Containers Made Easier</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></description>
+                <content:encoded><![CDATA[<p>There has been a need for a simple, easy-to-use handler for writing tests and other code around containers that would implement helpful methods and utilities. For this we introduce <a href="http://conu.readthedocs.io/en/latest/">conu</a>, a low-level <a href="https://www.python.org/">Python</a> library.</p>
+<p>This project has been driven from the start by the requirements of container maintainers and testers. In addition to basic image and container management methods, it provides other often used functions, such as container mount, shortcut methods for getting an IP address, exposed ports, logs, name, image extending using <a href="https://github.com/openshift/source-to-image" target="_blank" rel="noopener">source-to-image,</a> and many others.</p>
+<p><span id="more-458857"></span></p>
+<p>conu aims for stable engine-agnostic APIs that would be implemented by several container runtime back-ends. Switching between two different container engines should require only minimum effort. When used for testing, one set of tests could be executed for multiple back-ends.</p>
+<h2>Hello world</h2>
+<p>In the following example there is a snippet of code in which we run a container from a specified image, check its output, and gracefully delete.</p>
+<p>We have decided our desired container runtime would be docker (now the only fully implemented container runtime). The image is run with an instance of DockerRunBuilder, which is the way to set additional options and custom commands for the docker container run command.</p>
+<pre class="brush: python; title: ; notranslate">
+import conu, logging
+
+def check_output(image, message):
+    command_build = conu.DockerRunBuilder(command=['echo', message])
+    container = image.run_via_binary(command_build)
+
+    try:
+        # check_output
+        assert container.logs_unicode() == message + '\n'
+    finally:
+        #cleanup
+        container.stop()
+        container.delete()
+
+if __name__ == '__main__':
+    with conu.DockerBackend(logging_level=logging.DEBUG) as backend:
+        image = backend.ImageClass('registry.access.redhat.com/rhscl/httpd-24-rhel7')
+        check_output(image, message='Hello World!')
+</pre>
+<h2></h2>
+<h2>Get http response</h2>
+<p>When dealing with containers that run as services, the container state ‘Running’ is often not enough. We need to check that its port is open and ready to serve, and also to send custom requests to it.</p>
+<pre class="brush: python; title: ; notranslate">
+def check_container_port(image):
+    &quot;&quot;&quot;
+    run container and wait for successful
+    response from the service exposed via port 8080
+    &quot;&quot;&quot;
+    port=8080
+    container = image.run_via_binary()
+    container.wait_for_port(port)
+
+    # check httpd runs
+    http_response = container.http_request(port=port)
+    assert http_response.ok
+
+    # cleanup
+    container.delete(force=True)
+</pre>
+<h2></h2>
+<h2>Look inside the container filesystem</h2>
+<p>To check presence and content of the configuration files, conu provides a way to easily mount the container filesystem with a predefined set of useful methods. The mount is in read-only mode, but we plan to also implement read-write modes in the next releases.</p>
+<pre class="brush: python; title: ; notranslate">
+def mount_container_filesystem(image):
+    # run httpd container
+    container = image.run_via_binary()
+
+    # mount container filesystem
+    with container.mount() as fs:
+        # check presence of httpd configuration file
+        assert fs.file_is_present('/etc/httpd/conf/httpd.conf')
+
+        # check presence of default httpd index page
+        index_path = ‘/opt/rh/httpd24/root/usr/share/httpd/noindex/index.html’
+        assert fs.file_is_present(index_path)
+
+        # and its content
+        index_text = fs.read_file(index_path)
+</pre>
+<h2></h2>
+<h2>So why not just use docker-py?</h2>
+<p>Aside from docker, conu also aims to support other container runtimes by providing a generic API. To implement the docker back-end, conu actually uses docker-py. Conu also implements other utilities that are generally used when dealing with containers. Adopting other utilities should be also simple.</p>
+<p>&nbsp;</p>
+<h2>And what about container testing frameworks?</h2>
+<p>You don’t have to be limited by a specified a set of tests. When writing code with conu, you can acquire ports, sockets, and filesystems, and the only limits you have are the ones set by Python. In the cases where conu does not support certain features and you don’t want to deal with a subprocess, there is a run_cmd utility that helps you simply run the desired command.</p>
+<p>We are reaching out to you to gather feedback and encourage contribution to conu to make scripting around containers even more efficient. We have already successfully used conu for several image tests (for example <a href="https://github.com/container-images/postgresql/tree/master/test">here</a>), and it also helped while implementing clients for executing specific kinds of containers.</p>
+<p>For more information, see <a href="http://conu.readthedocs.io/en/latest/" target="_blank" rel="noopener">conu documentation</a> or <a href="https://github.com/fedora-modularity/conu" target="_blank" rel="noopener">source</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;linkname=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;linkname=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;linkname=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;linkname=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;linkname=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;linkname=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;linkname=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_flipboard" href="https://www.addtoany.com/add_to/flipboard?linkurl=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;linkname=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" title="Flipboard" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F03%2F07%2Fintroducing-conu-scripting-containers-made-easier%2F&amp;title=Introducing%20conu%20%E2%80%93%20Scripting%20Containers%20Made%20Easier" data-a2a-url="https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/" data-a2a-title="Introducing conu – Scripting Containers Made Easier"><img src="https://static.addtoany.com/buttons/favicon.png" alt="Share"></a></p><p>The post <a rel="nofollow" href="https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/">Introducing conu &#8211; Scripting Containers Made Easier</a> appeared first on <a rel="nofollow" href="https://developers.redhat.com/blog">RHD Blog</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/feed/</wfw:commentRss>
+        <slash:comments>0</slash:comments>
+    <post-id xmlns="com-wordpress:feed-additions:1">458857</post-id>    </item>
+    </channel>
+</rss>
