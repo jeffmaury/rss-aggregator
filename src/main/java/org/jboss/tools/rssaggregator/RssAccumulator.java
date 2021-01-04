@@ -32,7 +32,8 @@ public class RssAccumulator {
 	}
 
 	public void addEntry(SyndEntry entry) {
-		entries.put(entry.getPublishedDate(), entry);
+		Date date = entry.getPublishedDate()!=null?entry.getPublishedDate():entry.getUpdatedDate();
+		entries.put(date, entry);
 	}
 
 	public SyndFeed getFeed() {
