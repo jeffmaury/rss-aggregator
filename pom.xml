@@ -19,7 +19,7 @@
     <vertx.verticle>org.jboss.tools.rssaggregator.RssAggregatorApplication</vertx.verticle>
     <rome.version>1.0</rome.version>
     <slf4j.version>1.7.13</slf4j.version>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.2.5</logback.version>
   </properties>
 
   <dependencyManagement>
